@@ -1,4 +1,3 @@
-# SERIE
 #EXTM3U
 #EXTINF:0 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Cap%C3%ADtulo%201%20-%20Pausa%20Activa%20%28BQ%29.jpg" ,Capítulo 1 - Pausa Activa
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Cap%C3%ADtulo%201%20-%20Pausa%20Activa%20%281080p_30fps_H264-128kbit_AAC%29.mp4
