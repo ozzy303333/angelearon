@@ -25,5 +25,5 @@ https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Apocalipsis%20Virtual%20-%20Cap%C3%ADtulo%20Animado%20%281080p_25fps_H264-128kbit_AAC%29.mp4
 #EXTINF:0 group-title="MANDALORIAN" tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/40966273-1378119.jpg" ,MANDALORIAN TP 1X1
 https://archive.org/download/mandalorian-01-x-07/MANDALORIAN%2001X01.mkv
-#EXTINF:0 group-title="MANDALORIAN" tvg-logo="https://www.legendicon.com/18114-thickbox_default/t-shirt-star-wars-the-mandalorian-poster-season-2.jpg" ,MANDALORIAN TP 1X1
+#EXTINF:0 group-title="MANDALORIAN" tvg-logo="https://www.legendicon.com/18114-thickbox_default/t-shirt-star-wars-the-mandalorian-poster-season-2.jpg" ,MANDALORIAN TP 1X2
 https://archive.org/download/mandalorian-01-x-07/MANDALORIAN%2001X02.mkv
