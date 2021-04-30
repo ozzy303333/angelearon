@@ -33,11 +33,25 @@ https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X03.mp4
 https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X04.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/15.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X5
 https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X05.mp4
-#EXTINF: -1 group-title="MANDALORIAN", MANDALORIAN TP 1X5
-https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X05.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/2051279.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X6
 https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X06.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/2094959.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X7
 https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X07.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/4014776030ddcf78faeb294adf371cca.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X8
 https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X08.mp4
+#EXTINF: -1 tvg-logo="https://ia801506.us.archive.org/33/items/cesser-16-acrimony-1080p/D6IKQFHKUNGFDPZUPPGGAI3ZRY.jpeg" group-title="MANDALORIAN", MANDALORIAN TP 2X1
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E01%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/Mandalorian-Poster-6_1200_1800_81_s.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X2
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E02%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/images.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X3
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E03%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/orig_SM-J700M_1_587483.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X4
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E04%20Dual%20WEB-DL%20x264%20720p%20.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/star-wars-the-mandalorian-on-the-run-i99522.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X5
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E05%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/t-shirt-star-wars-the-mandalorian-poster-season-2.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X6
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E06%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/t-shirt-star-wars-the-mandalorian-poster-season-3.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X7
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E07%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/the-mandalorian-5-1572307621.jpeg" group-title="MANDALORIAN", MANDALORIAN TP 2X8
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E08%20Dual%20WEB-DL%20x264%20720p.mkv
