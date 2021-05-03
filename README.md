@@ -191,91 +191,91 @@ https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E05.mkv
 #EXTINF: -1 group-title="SOUTHPARK", S03E06 El Panda Del Acoso Sexual
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E06.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S03E07
+#EXTINF: -1 group-title="SOUTHPARK", S03E07 Orgia De Gatos
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E07.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S03E08
+#EXTINF: -1 group-title="SOUTHPARK", S03E08 Dos Hombres Desnudos En Un Jacuzzi
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E08.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S03E09
+#EXTINF: -1 group-title="SOUTHPARK", S03E09 Jubileo
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E09.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S03E10
+#EXTINF: -1 group-title="SOUTHPARK", S03E10 Chinpokomon
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E10.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S03E11
+#EXTINF: -1 group-title="SOUTHPARK", S03E11 Paco, El Flaco En El Espacio
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E11.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S03E12
+#EXTINF: -1 group-title="SOUTHPARK", S03E12 El Misterio De Los Fantasmas Piratas De KORN
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E12.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S03E13
+#EXTINF: -1 group-title="SOUTHPARK", S03E13 Conectado Al Mono De Fonética
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E13.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S03E14
+#EXTINF: -1 group-title="SOUTHPARK", S03E14 La Medalla Roja de los Gays
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E14.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S03E15
+#EXTINF: -1 group-title="SOUTHPARK", S03E15 Clásicos De Navidad Del Sr. Mojón
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E15.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S03E16
+#EXTINF: -1 group-title="SOUTHPARK", S03E16 ¿Estas Ahi Dios? Soy Yo, Jesus
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E16.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S03E17
+#EXTINF: -1 group-title="SOUTHPARK", S03E17 Concierto Mundial De Flauta Dulce
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E17.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E01
+#EXTINF: -1 group-title="SOUTHPARK", S04E01 El Hada De Los Dientes 2000
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E01.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E02
+#EXTINF: -1 group-title="SOUTHPARK", S04E02 El Tonto Crimen De Odio Contra Cartman 2000
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E02.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E03
+#EXTINF: -1 group-title="SOUTHPARK", S04E03 Timmy 2000
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E03.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E04
+#EXTINF: -1 group-title="SOUTHPARK", S04E04 Las Quintuples 2000
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E04.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E05
+#EXTINF: -1 group-title="SOUTHPARK", S04E05 Cartman Se Une A NAMBLA
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E05.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E06
+#EXTINF: -1 group-title="SOUTHPARK", S04E06 Chef Se Vuelve Loco
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E06.mkv
 #EXTINF: -1 group-title="SOUTHPARK", S04E07
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E07.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E08
+#EXTINF: -1 group-title="SOUTHPARK", S04E08 Algo Que Puedes Hacer Con Tu Dedo
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E08.mkv
 #EXTINF: -1 group-title="SOUTHPARK", S04E09
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E09.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E10
+#EXTINF: -1 group-title="SOUTHPARK", S04E10 Probablemente
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E10.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E11
+#EXTINF: -1 group-title="SOUTHPARK", S04E11 Cuarto Grado
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E11.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E12
+#EXTINF: -1 group-title="SOUTHPARK", S04E12 El Cuaderno Atrapador
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E12.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E13
+#EXTINF: -1 group-title="SOUTHPARK", S04E13 ¡Hellen Keller! El Musical
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E13.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E14
+#EXTINF: -1 group-title="SOUTHPARK", S04E14 Pip: Grandes Esperanzas
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E14.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E15
+#EXTINF: -1 group-title="SOUTHPARK", S04E15 Campamento De Gordos
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E15.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E16
+#EXTINF: -1 group-title="SOUTHPARK", S04E16 La Loca Aventura De Masturbacion
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E16.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E17
+#EXTINF: -1 group-title="SOUTHPARK", S04E17 Una Navidad De Mierda
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E17.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E01
+#EXTINF: -1 group-title="SOUTHPARK", S05E01 Díran Mierda en Television
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E01.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E02
+#EXTINF: -1 group-title="SOUTHPARK", S05E02 Pelea De Inválidos
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E02.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E03
+#EXTINF: -1 group-title="SOUTHPARK", S05E03 Los Súper Mejores Amigos
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E03.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E04
+#EXTINF: -1 group-title="SOUTHPARK", S05E04 Scott Tenorman Debe Morir
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E04.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E05
+#EXTINF: -1 group-title="SOUTHPARK", S05E05 Terrance Y Philip: Detrás Del Pedo
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E05.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E06
+#EXTINF: -1 group-title="SOUTHPARK", S05E06 Cartmanlandia
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E06.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E07
+#EXTINF: -1 group-title="SOUTHPARK", S05E07 Uso Apropiado Del Condón
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E07.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E08
+#EXTINF: -1 group-title="SOUTHPARK", S05E08 Toallín
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E08.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E09
+#EXTINF: -1 group-title="SOUTHPARK", S05E09 Osama Bin Laden Tiene Los Pantalones Cagados
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E09.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E10
+#EXTINF: -1 group-title="SOUTHPARK", S05E10 Cómo Comer Con Tu Culo
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E10.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E11
+#EXTINF: -1 group-title="SOUTHPARK", S05E11 La Entidad
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E11.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E12
+#EXTINF: -1 group-title="SOUTHPARK", S05E12 Aquí Viene El Vecindario
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E12.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E13
+#EXTINF: -1 group-title="SOUTHPARK", S05E13 Kenny Muere
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E13.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S05E14
+#EXTINF: -1 group-title="SOUTHPARK", S05E14 El Show De Butters
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E14.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S06E17
+#EXTINF: -1 group-title="SOUTHPARK", S06E17 Abajo El Trineo Rojo
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%281%29.mkv
 #EXTINF: -1 group-title="SOUTHPARK", S06E17
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2810%29.mkv
@@ -475,69 +475,69 @@ https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%288%29.mkv
 #EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%289%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E01
+#EXTINF: -1 group-title="SOUTHPARK", S13E01 El Anillo De Pureza
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E01%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E02
+#EXTINF: -1 group-title="SOUTHPARK", S13E02 El Mapache
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E02%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E03
+#EXTINF: -1 group-title="SOUTHPARK", S13E03 Villa Margarita
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E03%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E04
+#EXTINF: -1 group-title="SOUTHPARK", S13E04 Come, Reza Y Tírate Vagipedos
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E04%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E05
+#EXTINF: -1 group-title="SOUTHPARK", S13E05 Varitas De Pescado
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E05%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E06
+#EXTINF: -1 group-title="SOUTHPARK", S13E06 Carrera De Autos De Madera
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E06%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E07
+#EXTINF: -1 group-title="SOUTHPARK", S13E07 Barba Gorda
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E07%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E08
+#EXTINF: -1 group-title="SOUTHPARK", S13E08 Celebridades Muertas
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E08%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E09
+#EXTINF: -1 group-title="SOUTHPARK", S13E09 La Perra Mayor De Butters
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E09%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E10
+#EXTINF: -1 group-title="SOUTHPARK", S13E10 FCL: El Club De Luchas
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E10%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E11
+#EXTINF: -1 group-title="SOUTHPARK", S13E11 ¡Jodete, Ballena!
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E11%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E12
+#EXTINF: -1 group-title="SOUTHPARK", S13E12 La Palabra Con M
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E12%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E13
+#EXTINF: -1 group-title="SOUTHPARK", S13E13 Baila Con Los Pitufos
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E13%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S13E14
+#EXTINF: -1 group-title="SOUTHPARK", S13E14 Pis
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E14%201080p%20Dual%20%281%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E01
+#EXTINF: -1 group-title="SOUTHPARK", S14E01 Curación Sexual
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E01.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E02
+#EXTINF: -1 group-title="SOUTHPARK", S14E02 La Historia De Escroto Mc Bolas De Moco
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E02.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E03
+#EXTINF: -1 group-title="SOUTHPARK", S14E03 Pollo Medicinal
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E03.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E04
+#EXTINF: -1 group-title="SOUTHPARK", S14E04 Tienes 0 Amigos En Facebook
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E04.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E05
+#EXTINF: -1 group-title="SOUTHPARK", S14E05 200
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E05%201080p%20Dual.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E06
+#EXTINF: -1 group-title="SOUTHPARK", S14E06 201
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E06%201080p%20Dual.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E07
+#EXTINF: -1 group-title="SOUTHPARK", S14E07 Verano Minusválido
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E07.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E08
+#EXTINF: -1 group-title="SOUTHPARK", S14E08 Pobre Y Estúpido
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E08.mkv
 #EXTINF: -1 group-title="SOUTHPARK", South Park S14E09
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E09.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E10
+#EXTINF: -1 group-title="SOUTHPARK", S14E10 El Origen
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E10.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E11
+#EXTINF: -1 group-title="SOUTHPARK", S14E11 El Mapache 2: Retrospectiva
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E11.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E12
+#EXTINF: -1 group-title="SOUTHPARK", S14E12 Mysterion Se Subleva
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E12.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E13
+#EXTINF: -1 group-title="SOUTHPARK", S14E13 El Mapache Vs El Mapache Y Sus Amigos
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E13.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S14E14
+#EXTINF: -1 group-title="SOUTHPARK", S14E14 Crema Freiche
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E14.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S15E01
+#EXTINF: -1 group-title="SOUTHPARK", S15E01 CentiPad Humano
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S15E01.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S15E02
+#EXTINF: -1 group-title="SOUTHPARK", S15E02 Chistobot
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S15E02.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S15E03
+#EXTINF: -1 group-title="SOUTHPARK", S15E03   Budín Real
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S15E03.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S15E04
+#EXTINF: -1 group-title="SOUTHPARK", S15E14 El Niño Pobre
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S15E04.mkv
-#EXTINF: -1 group-title="SOUTHPARK", South Park S15E05
+#EXTINF: -1 group-title="SOUTHPARK", S15E05  Asociación Atlética de Bebés Crack
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S15E05.mkv
