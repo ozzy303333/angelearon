@@ -1,95 +1,543 @@
-#EXTM3U
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Cap%C3%ADtulo%201%20-%20Pausa%20Activa%20%28BQ%29.jpg",Capítulo 1 - Pausa Activa
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Cap%C3%ADtulo%201%20-%20Pausa%20Activa%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Capítulo 1 - Pausa Activa
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Cap%C3%ADtulo%201%20-%20Pausa%20Activa%20%281080p_30fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Capi%CC%81tulo%202%20-%20%C2%BF%20Que%CC%81%20vas%20a%20almorzar%20hoy%20_%20%28BQ%29.jpg",Capi´tulo 2 - ¿ Que´ vas a almorzar hoy?
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Capi%CC%81tulo%202%20-%20%C2%BF%20Que%CC%81%20vas%20a%20almorzar%20hoy%20_%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Capi´tulo 2 - ¿ Que´ vas a almorzar hoy?
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Capi%CC%81tulo%202%20-%20%C2%BF%20Que%CC%81%20vas%20a%20almorzar%20hoy%20_%20%281080p_30fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Capi%CC%81tulo%203%20%20-%20%C2%BF%20Reencuentro%20virtual%20_%20%28BQ%29.jpg",Capi´tulo 3  - ¿ Reencuentro virtual ?
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Capi%CC%81tulo%203%20%20-%20%C2%BF%20Reencuentro%20virtual%20_%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Capi´tulo 3  - ¿ Reencuentro virtual ?
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Capi%CC%81tulo%203%20%20-%20%C2%BF%20Reencuentro%20virtual%20_%20%281080p_30fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Cap%C3%ADtulo%204%20-%20%C2%BF%20Clasecita%20virtual%20_%20%28BQ%29.jpg",Capítulo 4 - ¿ Clasecita virtual?
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Cap%C3%ADtulo%204%20-%20%C2%BF%20Clasecita%20virtual%20_%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Capítulo 4 - ¿ Clasecita virtual?
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Cap%C3%ADtulo%204%20-%20%C2%BF%20Clasecita%20virtual%20_%20%281080p_30fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Cap%C3%ADtulo%205%20-%20Cuarentena%20Inteligente%20%28BQ%29.jpg",Capítulo 5 - Cuarentena Inteligente
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Cap%C3%ADtulo%205%20-%20Cuarentena%20Inteligente%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Capítulo 5 - Cuarentena Inteligente
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Cap%C3%ADtulo%205%20-%20Cuarentena%20Inteligente%20%281080p_30fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Capi%CC%81tulo%206%20-%20Ajuste%20de%20Cuentas%20%28BQ%29.jpg",Capi´tulo 6 - Ajuste de Cuentas
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Capi%CC%81tulo%206%20-%20Ajuste%20de%20Cuentas%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Capi´tulo 6 - Ajuste de Cuentas
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Capi%CC%81tulo%206%20-%20Ajuste%20de%20Cuentas%20%281080p_30fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Capi%CC%81tulo%207%20-%20%20Polos%20Opuestos%20%28BQ%29.jpg",Capi´tulo 7 -  Polos Opuestos
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Capi%CC%81tulo%207%20-%20%20Polos%20Opuestos%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Capi´tulo 7 -  Polos Opuestos
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Capi%CC%81tulo%207%20-%20%20Polos%20Opuestos%20%281080p_30fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Cap%C3%ADtulo%208%20-%20%20%20Feliz%20Cumplea%C3%B1os%20Se%C3%B1orita%20%28BQ%29.jpg",Capítulo 8 -   Feliz Cumpleaños Señorita
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Cap%C3%ADtulo%208%20-%20%20%20Feliz%20Cumplea%C3%B1os%20Se%C3%B1orita%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Capítulo 8 -   Feliz Cumpleaños Señorita
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Cap%C3%ADtulo%208%20-%20%20%20Feliz%20Cumplea%C3%B1os%20Se%C3%B1orita%20%281080p_60fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Capi%CC%81tulo%209%20-%20He%CC%81roes%20%28BQ%29.jpg",Capi´tulo 9 - He´roes
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Capi%CC%81tulo%209%20-%20He%CC%81roes%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Capi´tulo 9 - He´roes
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Capi%CC%81tulo%209%20-%20He%CC%81roes%20%281080p_24fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Cap%C3%ADtulo%2010%20-%20%20%C2%BF%20Depresi%C3%B3n%20_%20%28BQ%29.jpg",Capítulo 10 -  ¿ Depresión
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Cap%C3%ADtulo%2010%20-%20%20%C2%BF%20Depresi%C3%B3n%20_%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Capítulo 10 -  ¿ Depresión
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Cap%C3%ADtulo%2010%20-%20%20%C2%BF%20Depresi%C3%B3n%20_%20%28720p_30fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-11-tengo-sueno-bq/Cap%C3%ADtulo%2011%20-%20Tengo%20Sue%C3%B1o%20%28BQ%29.jpg",Capítulo 11 - Tengo Sueño
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-11-tengo-sueno-bq/Cap%C3%ADtulo%2011%20-%20Tengo%20Sue%C3%B1o%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Capítulo 11 - Tengo Sueño
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Cap%C3%ADtulo%2011%20-%20Tengo%20Sue%C3%B1o%20%281080p_30fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="CUARENTENA APOCALÍPTICA - LA SERIE" tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Apocalipsis%20Virtual%20-%20Cap%C3%ADtulo%20Animado%20%28BQ%29.jpg",Apocalipsis Virtual - Capítulo Animado
+#EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Apocalipsis%20Virtual%20-%20Cap%C3%ADtulo%20Animado%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Apocalipsis Virtual - Capítulo Animado
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Apocalipsis%20Virtual%20-%20Cap%C3%ADtulo%20Animado%20%281080p_25fps_H264-128kbit_AAC%29.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 1" tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/40966273-1378119.jpg",MANDALORIAN TP 1X1
+#EXTINF: -1 tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/40966273-1378119.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X1
 https://archive.org/download/mandalorian-01-x-07/MANDALORIAN%2001X01.mkv
-#EXTINF:-1 group-title="MANDALORIAN TP 1" tvg-logo="https://i.pinimg.com/originals/5a/f4/82/5af4821dcfa766eba6cf801c6be08888.png",MANDALORIAN TP 1X2
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/5a/f4/82/5af4821dcfa766eba6cf801c6be08888.png" group-title="MANDALORIAN", MANDALORIAN TP 1X2
 https://archive.org/download/mandalorian-01-x-07/MANDALORIAN%2001X02.mkv
-#EXTINF:-1 group-title="MANDALORIAN TP 1" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/13.jpg",MANDALORIAN TP 1X3
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/13.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X3
 https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X03.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 1" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/14.jpg",MANDALORIAN TP 1X4
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/14.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X4
 https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X04.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 1" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/15.jpg",MANDALORIAN TP 1X5
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/15.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X5
 https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X05.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 1" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/2051279.jpg",MANDALORIAN TP 1X6
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/2051279.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X6
 https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X06.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 1" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/2094959.jpg",MANDALORIAN TP 1X7
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/2094959.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X7
 https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X07.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 1" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/4014776030ddcf78faeb294adf371cca.jpg",MANDALORIAN TP 1X8
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/4014776030ddcf78faeb294adf371cca.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X8
 https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X08.mp4
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 1" tvg-logo="https://archive.org/download/vikingos-1x-7/1.jpg",Vikingos 1x1
-https://archive.org/download/vikingos-1x-7/Vikingos%201x1.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 1" tvg-logo="https://archive.org/download/vikingos-1x-7/2.jpg",Vikingos 1x2
-https://archive.org/download/vikingos-1x-7/Vikingos%201x2.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 1" tvg-logo="https://archive.org/download/vikingos-1x-7/3.jpg",Vikingos 1x3
-https://archive.org/download/vikingos-1x-7/Vikingos%201x3.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 1" tvg-logo="https://archive.org/download/vikingos-1x-7/4.jpg",Vikingos 1x4
-https://archive.org/download/vikingos-1x-7/Vikingos%201x4.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 1" tvg-logo="https://archive.org/download/vikingos-1x-7/5.jpg",Vikingos 1x5
-https://archive.org/download/vikingos-1x-7/Vikingos%201x5.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 1" tvg-logo="https://archive.org/download/vikingos-1x-7/6.jpg",Vikingos 1x6
-https://archive.org/download/vikingos-1x-7/Vikingos%201x6.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 1" tvg-logo="https://archive.org/download/vikingos-1x-7/7.jpg",Vikingos 1x7
-https://archive.org/download/vikingos-1x-7/Vikingos%201x7.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 1" tvg-logo="https://archive.org/download/vikingos-1x-7/8.jpg",Vikingos 1x8
-https://archive.org/download/vikingos-1x-7/Vikingos%201x8.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 1" tvg-logo="https://archive.org/download/vikingos-1x-7/9.jpg",Vikingos 1x9
-https://archive.org/download/vikingos-1x-7/Vikingos%201x9.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 2" tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%281%29.jpg",Vikingos 2x1
-https://archive.org/download/vikingos-1x-7/Vikingos%202x01%20Serieshdpormega.com.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 2" tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%282%29.jpg",Vikingos 2x2
-https://archive.org/download/vikingos-1x-7/Vikingos%202x02%20Serieshdpormega.com.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 2" tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%283%29.jpg",Vikingos 2x3
-https://archive.org/download/vikingos-1x-7/Vikingos%202x03%20Serieshdpormega.com.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 2" tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%284%29.jpg",Vikingos 2x4
-https://archive.org/download/vikingos-1x-7/Vikingos%202x04%20Serieshdpormega.com.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 2" tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%285%29.jpg",Vikingos 2x5
-https://archive.org/download/vikingos-1x-7/Vikingos%202x05%20Serieshdpormega.com.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 2" tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%286%29.jpg",Vikingos 2x6
-https://archive.org/download/vikingos-1x-7/Vikingos%202x06%20Serieshdpormega.com.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 2" tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%287%29.jpg",Vikingos 2x7
-https://archive.org/download/vikingos-1x-7/Vikingos%202x07%20Serieshdpormega.com.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 2" tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%288%29.jpg",Vikingos 2x8
-https://archive.org/download/vikingos-1x-7/Vikingos%202x08%20%20Serieshdpormega.com.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 2" tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%289%29.jpg",Vikingos 2x9
-https://archive.org/download/vikingos-1x-7/Vikingos%202x09%20Serieshdpormega.com.mkv
-#EXTINF:-1 group-title="VIKINGOS TEMPORADA 2" tvg-logo="https://archive.org/download/vikingos-1x-7/9.jpg",Vikingos 2x10
-https://archive.org/download/vikingos-1x-7/Vikingos%202x10%20%20Serieshdpormega.com.mkv
-#EXTINF:-1 group-title="MANDALORIAN TP 2" tvg-logo="https://ia801506.us.archive.org/33/items/cesser-16-acrimony-1080p/D6IKQFHKUNGFDPZUPPGGAI3ZRY.jpeg",MANDALORIAN TP 2X1
+#EXTINF: -1 tvg-logo="https://ia801506.us.archive.org/33/items/cesser-16-acrimony-1080p/D6IKQFHKUNGFDPZUPPGGAI3ZRY.jpeg" group-title="MANDALORIAN", MANDALORIAN TP 2X1
 https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E01%20Dual%20WEB-DL%20x264%20720p.mkv
-#EXTINF:-1 group-title="MANDALORIAN TP 2" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/Mandalorian-Poster-6_1200_1800_81_s.jpg",MANDALORIAN TP 2X2
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/Mandalorian-Poster-6_1200_1800_81_s.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X2
 https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E02%20Dual%20WEB-DL%20x264%20720p.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 2" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/images.jpg",MANDALORIAN TP 2X3
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/images.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X3
 https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E03%20Dual%20WEB-DL%20x264%20720p.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 2" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/orig_SM-J700M_1_587483.jpg",MANDALORIAN TP 2X4
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/orig_SM-J700M_1_587483.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X4
 https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E04%20Dual%20WEB-DL%20x264%20720p%20.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 2" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/star-wars-the-mandalorian-on-the-run-i99522.jpg",MANDALORIAN TP 2X5
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/star-wars-the-mandalorian-on-the-run-i99522.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X5
 https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E05%20Dual%20WEB-DL%20x264%20720p.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 2" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/t-shirt-star-wars-the-mandalorian-poster-season-2.jpg",MANDALORIAN TP 2X6
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/t-shirt-star-wars-the-mandalorian-poster-season-2.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X6
 https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E06%20Dual%20WEB-DL%20x264%20720p.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 2" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/the-mandalorian-5-1572307621.jpeg",MANDALORIAN TP 2X7
-https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E07%20Dual%20WEB-DL%20x264%20720p.mp4
-#EXTINF:-1 group-title="MANDALORIAN TP 2" tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/the-mandalorian-5-1572307621.jpeg",MANDALORIAN TP 2X8
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/t-shirt-star-wars-the-mandalorian-poster-season-3.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X7
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E07%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/the-mandalorian-5-1572307621.jpeg" group-title="MANDALORIAN", MANDALORIAN TP 2X8
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E08%20Dual%20WEB-DL%20x264%20720p.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/13.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X3
+https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X03.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/14.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X4
+https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X04.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/15.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X5
+https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X05.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/2051279.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X6
+https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X06.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/2094959.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X7
+https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X07.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/4014776030ddcf78faeb294adf371cca.jpg" group-title="MANDALORIAN", MANDALORIAN TP 1X8
+https://archive.org/download/mandalorian-01-x-07_202104/MANDALORIAN%2001X08.mp4
+#EXTINF: -1 tvg-logo="https://ia801506.us.archive.org/33/items/cesser-16-acrimony-1080p/D6IKQFHKUNGFDPZUPPGGAI3ZRY.jpeg" group-title="MANDALORIAN", MANDALORIAN TP 2X1
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E01%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/Mandalorian-Poster-6_1200_1800_81_s.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X2
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E02%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/images.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X3
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E03%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/orig_SM-J700M_1_587483.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X4
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E04%20Dual%20WEB-DL%20x264%20720p%20.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/star-wars-the-mandalorian-on-the-run-i99522.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X5
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E05%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/t-shirt-star-wars-the-mandalorian-poster-season-2.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X6
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E06%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/t-shirt-star-wars-the-mandalorian-poster-season-3.jpg" group-title="MANDALORIAN", MANDALORIAN TP 2X7
+https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E07%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-acrimony-1080p/the-mandalorian-5-1572307621.jpeg" group-title="MANDALORIAN", MANDALORIAN TP 2X8
 https://archive.org/download/mandalorian-01-x-07_202104/%5BIncogniMovies%5D%20The%20Mandalorian%20S02E08%20Dual%20WEB-DL%20x264%20720p.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/1.jpg" group-title="VIKINGOS", Vikingos 1x1
+https://archive.org/download/vikingos-1x-7/Vikingos%201x1.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/2.jpg" group-title="VIKINGOS", Vikingos 1x2
+https://archive.org/download/vikingos-1x-7/Vikingos%201x2.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/3.jpg" group-title="VIKINGOS", Vikingos 1x3
+https://archive.org/download/vikingos-1x-7/Vikingos%201x3.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/4.jpg" group-title="VIKINGOS", Vikingos 1x4
+https://archive.org/download/vikingos-1x-7/Vikingos%201x4.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/5.jpg" group-title="VIKINGOS", Vikingos 1x5
+https://archive.org/download/vikingos-1x-7/Vikingos%201x5.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/6.jpg" group-title="VIKINGOS", Vikingos 1x6
+https://archive.org/download/vikingos-1x-7/Vikingos%201x6.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/7.jpg" group-title="VIKINGOS", Vikingos 1x7
+https://archive.org/download/vikingos-1x-7/Vikingos%201x7.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/8.jpg" group-title="VIKINGOS", Vikingos 1x8
+https://archive.org/download/vikingos-1x-7/Vikingos%201x8.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/9.jpg" group-title="VIKINGOS", Vikingos 1x9
+https://archive.org/download/vikingos-1x-7/Vikingos%201x9.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%281%29.jpg" group-title="VIKINGOS", Vikingos 2x1
+https://archive.org/download/vikingos-1x-7/Vikingos%202x01%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%282%29.jpg" group-title="VIKINGOS", Vikingos 2x2
+https://archive.org/download/vikingos-1x-7/Vikingos%202x02%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%283%29.jpg" group-title="VIKINGOS", Vikingos 2x3
+https://archive.org/download/vikingos-1x-7/Vikingos%202x03%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%284%29.jpg" group-title="VIKINGOS", Vikingos 2x4
+https://archive.org/download/vikingos-1x-7/Vikingos%202x04%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%285%29.jpg" group-title="VIKINGOS", Vikingos 2x5
+https://archive.org/download/vikingos-1x-7/Vikingos%202x05%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%286%29.jpg" group-title="VIKINGOS", Vikingos 2x6
+https://archive.org/download/vikingos-1x-7/Vikingos%202x06%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%287%29.jpg" group-title="VIKINGOS", Vikingos 2x7
+https://archive.org/download/vikingos-1x-7/Vikingos%202x07%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%288%29.jpg" group-title="VIKINGOS", Vikingos 2x8
+https://archive.org/download/vikingos-1x-7/Vikingos%202x08%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/1%201%20%289%29.jpg" group-title="VIKINGOS", Vikingos 2x9
+https://archive.org/download/vikingos-1x-7/Vikingos%202x09%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/9.jpg" group-title="VIKINGOS", Vikingos 2x10
+https://archive.org/download/vikingos-1x-7/Vikingos%202x10%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S01E01 Cartman Consigue Una Sonda Anal.mkv
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E01%20Cartman%20Consigue%20Una%20Sonda%20Anal.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S01E02 Aumento De Peso 4000.mkv
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E02%20Aumento%20De%20Peso%204000.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S01E03 Volcan.mkv
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E03%20Volcan.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S01E05 Un Elefante Hace El Amor Con Una .mkv
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E05%20Un%20Elefante%20Hace%20El%20Amor%20Con%20Una%20.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S01E06.Muerte.mkv
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E06.Muerte.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S01E08 Conjuntivitis.mkv
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E08%20Conjuntivitis.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S01E09 Paco El Flaco.mkv
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E09%20Paco%20El%20Flaco.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S01E10 El Señor Mojon, La Mierda Navideña.mkv
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E10%20El%20Se%C3%B1or%20Mojon%2C%20La%20Mierda%20Navide%C3%B1a.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S01E11 Damien.mkv
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E11%20Damien.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S01E12 Cirugía Plástica De Tom .mkv
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E12%20Cirug%C3%ADa%20Pl%C3%A1stica%20De%20Tom%20.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S01E13 Mecha-Streisand.mkv
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E13%20Mecha-Streisand.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E01 Terrance y Philip: No Sin Mi Ano
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E01.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E02 La Mama De Cartman Sigue Siendo Una Puta Sucia
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E02.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E03 El Gallinófilo
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E03.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E04 El Pipi De Ike
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E04.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E05 La Señora Unida A Un Feto
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E05.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E06 La Rana Mexicana De Mirada Fija Del Sur De Sri Lanka
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E06.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E07 La Ciudad En El Borde De Para Siempre
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E07.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E08 Verano De Mierda
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E08.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E09 Las Bolas De Chocolate Saladas De Chef
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E09.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E10 Varicela
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E10.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E11 Rogert Elbert Deberia Dejar La Comida Chatarra
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E11.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E12 Casa Club
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E12.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E13 El Dia De las Vacas
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E13.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E14 Ayuden A Chef
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E14.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E15 El Pez Espeluznante
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E15%201080p.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E16 Feliz Navidad Charlie Manson!
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E16%201080p.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E17 Gnomos
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E17.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S02E18 El Hombre Prehistorico De Hielo
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S02E18.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E01 Mariposeando Con Los Niños
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E01.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E02 Combustion espontanea
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E02.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E03 El Sucubo
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E03.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E04 Tweek Vs Craig
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E04.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E05 Jakovasaurios
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E05.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E06 El Panda Del Acoso Sexual
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E06.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E07.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E08
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E08.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E09
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E09.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E10
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E10.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E11
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E11.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E12
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E12.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E13
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E13.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E14
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E14.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E15.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E16
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E16.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S03E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S03E17.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E01.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E02
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E02.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E03
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E03.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E04
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E04.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E05
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E05.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E06
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E06.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E07.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E08
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E08.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E09
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E09.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E10
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E10.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E11
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E11.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E12
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E12.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E13
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E13.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E14
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E14.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E15.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E16
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E16.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S04E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E17.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E01.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E02
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E02.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E03
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E03.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E04
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E04.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E05
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E05.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E06
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E06.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E07.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E08
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E08.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E09
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E09.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E10
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E10.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E11
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E11.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E12
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E12.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E13
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E13.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S05E14
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E14.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2810%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2811%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2812%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2813%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2814%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2816%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%282%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%283%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%284%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%285%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%286%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%287%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%288%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S06E17
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%289%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2810%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2811%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2812%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2813%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2814%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2815%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%282%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%283%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%284%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%285%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%286%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%287%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%288%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S07E15
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%289%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%2810%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%2811%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%2812%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%2813%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%2814%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%282%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%283%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%284%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%285%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%286%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%287%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%288%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S08E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%289%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%2810%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%2811%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%2812%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%2813%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%2814%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%282%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%283%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%284%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%285%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%286%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%287%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%288%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S09E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%289%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S10E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S10E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%2810%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S10E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%282%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S10E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%283%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S10E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%284%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S10E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%285%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S10E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%286%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S10E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%287%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S10E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%288%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S10E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%289%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%282%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%283%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2812%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2813%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2814%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2815%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2816%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2817%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2818%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%282%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%283%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%284%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%285%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%286%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%287%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%288%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S11E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%289%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%2810%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%2811%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%2812%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%2813%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%2814%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%282%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%283%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%284%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%285%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%286%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%287%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%288%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S12E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%289%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E01%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E02
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E02%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E03
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E03%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E04
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E04%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E05
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E05%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E06
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E06%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E07%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E08
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E08%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E09
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E09%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E10
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E10%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E11
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E11%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E12
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E12%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E13
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E13%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S13E14
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E14%201080p%20Dual%20%281%29.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E01.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E02
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E02.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E03
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E03.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E04
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E04.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E05
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E05%201080p%20Dual.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E06
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E06%201080p%20Dual.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E07
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E07.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E08
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E08.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E09
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E09.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E10
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E10.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E11
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E11.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E12
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E12.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E13
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E13.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S14E14
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S14E14.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S15E01
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S15E01.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S15E02
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S15E02.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S15E03
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S15E03.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S15E04
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S15E04.mkv
+#EXTINF: -1 group-title="SOUTHPARK", South Park S15E05
+https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S15E05.mkv
