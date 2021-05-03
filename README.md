@@ -225,11 +225,11 @@ https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E05.mkv
 #EXTINF: -1 group-title="SOUTHPARK", S04E06 Chef Se Vuelve Loco
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E06.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E07
+#EXTINF: -1 group-title="SOUTHPARK", S04E07 Chef se Vuelve Loco
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E07.mkv
 #EXTINF: -1 group-title="SOUTHPARK", S04E08 Algo Que Puedes Hacer Con Tu Dedo
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E08.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S04E09
+#EXTINF: -1 group-title="SOUTHPARK", S04E09 ¿Los Discapacitados se van al Infierno?
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E09.mkv
 #EXTINF: -1 group-title="SOUTHPARK", S04E10 Probablemente
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S04E10.mkv
