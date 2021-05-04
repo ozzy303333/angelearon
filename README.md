@@ -275,205 +275,205 @@ https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E13.mkv
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRIWrxGWTLOqnbLkTslnIE45TpuNXb8vPrd8UQc8wIG_8oE0OqR1ZL02-wp9Passxlbc&usqp=CAU" group-title="SOUTHPARK", S05E14 El Show De Butters
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S05E14.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17 Abajo El Trineo Rojo
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E17 Abajo El Trineo Rojo
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%281%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E17 Liberen A Sombrero
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2810%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E17 Las Tetas De Bebe Destruyen La Sociedad
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2811%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E17 El Secuestro Infantil No Tiene Gracia
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2812%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E17 Una Escalera Al Cielo
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2813%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E17 El Regreso Del Señor A Las Dos Torres
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2814%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E17 El Campamento De La Tolerancia
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%2816%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E17 La Mierda Mas Grande Del Universo
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%282%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E17 Mi Futuro Y Yo
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%283%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E03 Huelga De Freaks
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%284%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E04 Diversión Con Ternera
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%285%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E05 El Avance De La Pelicula De Terrance Y Phillip
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%286%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E05 El Profesor Caos
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%287%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E07 Los Simpsons Ya Lo Han Hecho
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%288%29.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/azwia15gNGshp9GQZ0THEt4pq0C6TMGEcNfKn8PVhPdXqSK2amKn8nJWvS67MYyBsCwRHbn4vQ6s2xEhhS4jLxjqrhXLfvxChszCm4eLpRk" group-title="SOUTHPARK", S06E17
+#EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_954838-MCO28983997205_122018-O.jpg" group-title="SOUTHPARK", S06E08 Amor Católico Candente
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S06E17%20%289%29.mkv
 #EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%281%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E09 Hard Rock Cristiano
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2810%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E10 Amanecer Gris
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2811%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E11 Casa Bonita
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2812%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E12 ¿Todo Sobre Los Mormones?
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2813%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E13 Sin Colillas
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2814%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E14 Pasitas
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%2815%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E04 Soy Un Poco Rural
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%282%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E02 Los Inválidos Locos
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%283%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E03 Papel De Baño
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%284%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E04 Soy Un Poco Rural
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%285%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E05 Culo Gordo Y Cabeza De Panqueque
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%286%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E106 Los Pequeños Detectives
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%287%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E107 La Codicia Del Hombre De Piel Roja
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%288%29.mkv
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E15
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-fsbB2JaAeBo/WIPTUEcnrAI/AAAAAAAAABs/tI73rZ5TyAYhLv32V3SZoXkCNJ3c8JIeQCLcB/s1600/South-Park-Season-7.jpg" group-title="SOUTHPARK", S07E08 ¡South Park Es Gay!
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S07E15%20%20%289%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01 Buenos Tiempos Con Armas
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%281%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E02 Contra Los Esteroides
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%2810%29.mkv
 #EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%2811%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E11 En Búsqueda De Audiencia
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%2812%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E13 El Increible Don De Cartman
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%2813%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E14 La Navidad De Los Animalitos Del Bosque
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%2814%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E02 Contra Los Esteroides
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%282%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E03 La Pasión Del Judío
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%283%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E04 Cogiste Pi Por El Cu
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%284%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E05 Genial-O, Mi Amigo Robot
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%285%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E06 Los Jeffersons
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%286%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E07 Espaldas Babosas
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%287%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E08 Lavado O Mojón
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%288%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hvUmK0qcL._AC_SY445_.jpg" group-title="SOUTHPARK", S08E09
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S08E01%20%289%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01 La Nueva Vagina Del Señor Garrison
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%281%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E10 ¡Sigue Ese Huevo!
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%2810%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E11 Niños Colorados
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%2811%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E04   Mejores Amigos Para Siempre
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%2812%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E13 Liberen a Willzyx
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%2813%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E14 Maria Sangrante
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%2814%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E02 Muere Hippie, Muere
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%282%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E03 Wing
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%283%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E04 Mejores Amigos Para Siempre
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%284%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E10 La Aburrida Liga De Béisbol
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%285%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E06 La Muerte De Eric Cartman
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%286%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E12 Niños Colorados
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%287%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E13 Atrapados En El Closet
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%288%29.mkv
 #EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wIKWUCjL._SL1500_.jpg" group-title="SOUTHPARK", S09E01
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S09E01%20%289%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E01 El Regreso del Chef
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%281%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E10 Una Maestra Tiene Sexo Con Un Niño
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%2810%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E02 ¡Alerta Smug!
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%282%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E03 La Guerra de Los Dibujos Animados (Parte 1)
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%283%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E04 La Guerra De Los Dibujos Animados (Parte 2)
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%284%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E05 Toallín, Un Millón De Fibritas
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%285%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E06 Hombre-Oso-Cerdo
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%286%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E07 Tsst
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%287%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E08   Haz El Amor, No El Warcraft
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%288%29.mkv
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E01
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E09 El Misterio Del Mojón En El Urinal
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S10E01%20%289%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07 La Noche De Los Desamparados Vivientes
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%281%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E08 El Pequeño Tourette
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%282%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E09 Mas Mojón
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%283%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E14 La Copa Stanley
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2812%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/03/5014437139832.jpg" group-title="SOUTHPARK", S13E12 La Palabra Con M
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2813%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E02 Cartman Chupa
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2814%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E03 Piojos
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2815%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E04 El Snuke
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2816%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E05 El Fantástico Especial De Pascuas
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2817%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E06 ¡Les-Bos!
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%2818%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07 La Noche De Los Desamparados Vivientes
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%282%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E08 El Pequeño Tourette
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%283%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E09 Mas Mojón
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%284%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E10 Imaginaciónlandia (Parte 1)
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%285%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E11 Imaginaciónlandia (Parte 2)
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%286%29.mkv
-#EXTINF: -1 group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E13 Heroes de la guitarra
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%287%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E14 La Lista
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%288%29.mkv
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-csPYwPUuSr0/XXElOfV18xI/AAAAAAAAAnM/EgL2_WP_OYkR8WHdfMeFKTDOirmT5wn1gCLcBGAs/s1600/91wPVdH9WUL._SL1500_.jpg" group-title="SOUTHPARK", S11E07
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71uE6B0iAiL._AC_SL1154_.jpg" group-title="SOUTHPARK", S10E11 Infierno En La Tierra 2006
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S11E07%20%289%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01 Problema De Amígdalas
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%281%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E10 Perudemia
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%2810%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E11 Perudemia 2: El Susto
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%2811%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E12 Sobre La Última Noche...
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%2812%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E13 Musical De Primaria
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%2813%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E14 El Incastigable
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%2814%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E02 El Nuevo Look De Britney
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%282%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E03 El Gran Tetaje
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%283%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E04 Canadá En Huelga
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%284%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E05 ¡Puaj, Un Pene!
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%285%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E06 Sobre Cargado (Sin Internet)
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%286%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E07 Súper Diversión
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%287%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E08 El Problema Chino
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%288%29.mkv
-#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E01
+#EXTINF: -1 tvg-logo="https://prabook.com/web/show-photo.jpg?id=2537162&cache=false" group-title="SOUTHPARK", S12E09 El Show Sobre El Cáncer De Seno
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S12E01%20%289%29.mkv
 #EXTINF: -1 tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/03/5014437139832.jpg" group-title="SOUTHPARK", S13E01 El Anillo De Pureza
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S13E01%201080p%20Dual%20%281%29.mkv
