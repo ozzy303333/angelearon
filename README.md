@@ -121,6 +121,140 @@ https://archive.org/download/vikingos-1x-7/Vikingos%202x08%20%20Serieshdpormega.
 https://archive.org/download/vikingos-1x-7/Vikingos%202x09%20Serieshdpormega.com.mkv
 #EXTINF: -1 tvg-logo="https://archive.org/download/vikingos-1x-7/9.jpg" group-title="VIKINGOS", Vikingos 2x10
 https://archive.org/download/vikingos-1x-7/Vikingos%202x10%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1607458062499/sites/gadgets/img/2020/12/08/vikingos.jpg_2131130730.jpg" group-title="VIKINGOS", Vikingos 3x1
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x1.mp4
+#EXTINF: -1 tvg-logo="https://i.blogs.es/127083/vikings/1366_2000.jpeg" group-title="VIKINGOS", Vikingos 3x2
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x2.mp4
+#EXTINF: -1 tvg-logo="https://cadenaser00.epimg.net/ser/imagenes/2019/03/27/de_buenas_a_primeras/1553718281_824711_1553726555_noticia_normal.jpg" group-title="VIKINGOS", Vikingos 3x3
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x3.mp4
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/236x/ee/64/88/ee64887ec10c452e70fab9449c19a0b9.jpg" group-title="VIKINGOS", Vikingos 3x4
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x4.mp4
+#EXTINF: -1 tvg-logo="https://px.cdn.bigbangnews.com/bigbang/022020/1581719836433/ragnar%203.webp?cw=410&ch=465&extw=jpg" group-title="VIKINGOS", Vikingos 3x5
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x5.mp4
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/52/b8/b8/52b8b8f71b3fe86a153dc8b0ec89078d.jpg" group-title="VIKINGOS", Vikingos 3x6
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x6.mp4
+#EXTINF: -1 tvg-chno="https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x8.mp4" tvg-logo="https://images.clarin.com/2021/02/02/la-vida-de-ragnar-lothbrok___CFPZ-1lCH_340x340__1.jpg" group-title="VIKINGOS", Vikingos 3x7
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x7.mp4
+#EXTINF: -1 tvg-chno="https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x8.mp4" tvg-logo="https://vader.news/__export/1615976878983/sites/gadgets/img/2021/03/17/ragnar_vikingos.jpg_1624123210.jpg" group-title="VIKINGOS", Vikingos 3x8
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x8.mp4
+#EXTINF: -1 tvg-chno="https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x8.mp4" tvg-logo="https://i.pinimg.com/originals/88/68/df/8868dfb62b87bbd92c216d3b9b928adb.jpg" group-title="VIKINGOS", Vikingos 3x9
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x9.mp4
+#EXTINF: -1 tvg-chno="https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x8.mp4" tvg-logo="https://i.pinimg.com/originals/1e/b8/54/1eb854ecf37f1d8cffe530cb42166ab6.jpg" group-title="VIKINGOS", Vikingos 5x01
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x01%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-chno="https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%203x8.mp4" tvg-logo="https://i.pinimg.com/originals/4a/f6/43/4af6431c2eae08c334f1cd8bf7a9986d.jpg" group-title="VIKINGOS", Vikingos 5x02
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x02%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Vikingos_Serie_de_TV-616055151-large.jpg" group-title="VIKINGOS", Vikingos 5x03
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x03%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i.blogs.es/d264a5/escena-vikingos/450_1000.jpeg" group-title="VIKINGOS", Vikingos 5x04
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x04%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/2/f608x342-61134_90857_17.jpg" group-title="VIKINGOS", Vikingos 5x05
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x05%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://static2.laverdad.es/www/multimedia/202101/03/media/cortadas/vikingos-kxAB-U130108508840zrF-1248x770@RC.jpg" group-title="VIKINGOS", Vikingos 5x06
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x06%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1590469843557/sites/gadgets/img/2020/05/26/vikingos-temporada-5-ivar-1543337948.jpg_2025882541.jpg" group-title="VIKINGOS", Vikingos 5x07
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x07%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://px.cdn.bigbangnews.com/bigbang/022020/1581719836433/ragnar%203.webp?cw=410&ch=465&extw=jpg" group-title="VIKINGOS", Vikingos 5x08
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x08%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/52/b8/b8/52b8b8f71b3fe86a153dc8b0ec89078d.jpg" group-title="VIKINGOS", Vikingos 5x09
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x09%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://historia.nationalgeographic.com.es/medio/2020/12/01/trelleborg-5811_c9c6c58e_1280x853.jpg" group-title="VIKINGOS", Vikingos 5x10
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x10%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1600105586429/sites/gadgets/img/2020/09/14/vikingos_history_channel.jpg_379183417.jpg" group-title="VIKINGOS", Vikingos 5x11
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x11%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/736x/a7/1b/43/a71b435ed70faae9f4d97cb2d5d58112.jpg" group-title="VIKINGOS", Vikingos 5x12
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x12%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c2/5c/95/c25c95916c0f9390913cf3b1a04d62e9.jpg" group-title="VIKINGOS", Vikingos 5x13
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x13%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwgIQrmULmh5qUD_ekV2v3eNqOqHKALuNIQ&usqp=CAU" group-title="VIKINGOS", Vikingos 5x14
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x14%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=276x1024:format=jpg/path/s3b8553275424a14e/image/icabba4e367f43b82/version/1607886703/image.jpg" group-title="VIKINGOS", Vikingos 5x15
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x15%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://indiehoy.com/wp-content/uploads/2020/06/vikings.jpg" group-title="VIKINGOS", Vikingos 5x16
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x16%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://px.cdn.bigbangnews.com/bigbang/022020/1581719836433/ragnar%203.webp?cw=410&ch=465&extw=jpg" group-title="VIKINGOS", Vikingos 5x17
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x17%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://spoiler.bolavip.com/__export/1611268770552/sites/bolavip/img/2021/01/21/vikings_serie_crop1611268770208.jpg_1902800913.jpg" group-title="VIKINGOS", Vikingos 5x18
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x18%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1604185770306/sites/gadgets/img/2020/10/31/vikingos_historia.jpg_958958259.jpg" group-title="VIKINGOS", Vikingos 5x19
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x19%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i.blogs.es/135229/vikingos/450_1000.jpeg" group-title="VIKINGOS", Vikingos 5x20
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%205x20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1606330544731/sites/gadgets/img/2020/11/25/vikingos-_valhalla.jpeg_2142831230.jpeg" group-title="VIKINGOS", Vikingos 6x01
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%206x01%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/236x/88/48/bc/8848bcfb622ed21f2ea3e902a2ec9fb7.jpg" group-title="VIKINGOS", Vikingos 6x02
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%206x02%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1594234725190/sites/gadgets/img/2020/07/08/bjorn_ironside_vikingos.jpg_396365550.jpg" group-title="VIKINGOS", Vikingos 6x02
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%206x02%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/1d/b8/ff/1db8ffd89b5864d8d6ed0da148420fe8.png" group-title="VIKINGOS", Vikingos 6x03
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%206x03%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1593660041828/sites/gadgets/img/2020/07/02/vikingos_bjorn.jpg_1308525926.jpg" group-title="VIKINGOS", Vikingos 6x04
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%206x04%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/30/9f/22/309f225a3769ea87c653ff4ba6864840.jpg" group-title="VIKINGOS", Vikingos 6x05
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%206x05%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXe45lfy9mhb3qDrrGnKX_nd7shWwnPCb1eYP9Rtu1rEUZwwbsApFemHuklzGW3TWwFmo&usqp=CAU" group-title="VIKINGOS", Vikingos 6x06
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%206x06%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1614528051065/sites/gadgets/img/2021/02/28/vikings-bjorn-ironside-featured-image-2_1.jpg_1119657862.jpg" group-title="VIKINGOS", Vikingos 6x07
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%206x07%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/38/d8/36/38d836d2c607d82420a6236fb0dd1b97.jpg" group-title="VIKINGOS", Vikingos 6x08
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%206x08%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i1.wp.com/applauss.com/wp-content/uploads/2017/12/vikings-Lagertha.jpg?resize=1000%2C667&ssl=1" group-title="VIKINGOS", Vikingos 6x09
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%206x09%20%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/vikingos-temporada-4-lagertha-pareja-lesbiana/113068298-2-esl-ES/Vikingos-Lagertha-tendra-una-pareja-lesbiana-en-la-cuarta-temporada.jpg" group-title="VIKINGOS", Vikingos 6x10
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikingos%206x10%20%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://www.guioteca.com/fotografia/files/2019/02/actrices-vikingos-1.jpg" group-title="VIKINGOS", Vikings 4x01
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x01%20Serieshdpormega.com~1.mp4
+#EXTINF: -1 tvg-logo="https://i.imgur.com/o7sJH4u.jpg" group-title="VIKINGOS", Vikings 4x02
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x02%20Serieshdpormega.com~1.mp4
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgj0VDaAlNYPOwd8zqWjZ2z0L9yP6rSCf7mxATRDW31-AeockKanUonzvB-afwyt4KFw&usqp=CAU" group-title="VIKINGOS", Vikings 4x03
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x03%20Serieshdpormega.com~1.mp4
+#EXTINF: -1 tvg-logo="https://cronicadexalapa.com/wp-content/uploads/2017/09/vikingos.jpg" group-title="VIKINGOS", Vikings 4x04
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x04%20Serieshdpormega.com~1.mp4
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/7c/12/9a/7c129af5e58a388d180b76bba477519a.jpg" group-title="VIKINGOS", Vikings 4x05
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x05%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/f6/fd/b5/f6fdb5e1c60106ac502554794b0fd8c8.jpg" group-title="VIKINGOS", Vikings 4x06
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x06%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/82/44/b8/8244b879ca20ccde2c2fc2a3df02035b.jpg" group-title="VIKINGOS", Vikings 4x07
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x06%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://www.magazinespain.com/wp-content/uploads/2019/12/Vikingos-6x04.jpg" group-title="VIKINGOS", Vikings 4x08
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x08%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://static.ideal.es/www/multimedia/202101/24/media/granada/Vikingos/vikingo-cesar%20(9).jpg" group-title="VIKINGOS", Vikings 4x09
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x09%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1609297933449/sites/gadgets/img/2020/12/30/vikings-s6-e8_7-scaled.jpg_1328385682.jpg" group-title="VIKINGOS", Vikings 4x10
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x10%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1609027676795/sites/gadgets/img/2020/12/26/harald_vikingos_jpg_1766947509.jpg_1101474949.jpg" group-title="VIKINGOS", Vikings 4x11
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x11%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1593096633447/sites/gadgets/img/2020/06/25/bjorn_y_harald_vikingos.jpg_1018681318.jpg" group-title="VIKINGOS", Vikings 4x12
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x12%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://img.ecartelera.com/noticias/57800/57803-m.jpg" group-title="VIKINGOS", Vikings 4x13
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x13%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01/2019/01/17/C12C27C6-CEFC-4DFD-9A09-5975CBAFE984/58.jpg" group-title="VIKINGOS", Vikings 4x14
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x14%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://www.latercera.com/resizer/PEYc-MvjwxQ1q0tZB20c7Ssi03k=/380x570/filters:focal(452x153:462x143)/cloudfront-us-east-1.images.arcpublishing.com/copesa/IOUT4N4AK5BXPJAXVIVR7GPU2I.jpg" group-title="VIKINGOS", Vikings 4x15
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x15%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/MO1rxfolXEPxs9aHsutgM_pFVgu24NQHEFwAl2K7jUb8rTe75Yj9_IOQ340dkTi82c2MfkSZQXrzU-enZQxuYu479-34Z09XCCVS2Q" group-title="VIKINGOS", Vikings 4x16
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x16%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://vader.news/__export/1599891073729/sites/gadgets/img/2020/09/12/halfdan.jpg_417920599.jpg" group-title="VIKINGOS", Vikings 4x17
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x17%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/d2/a2/ec/d2a2ec65f53f273812ede04ebc8b1ab1.jpg" group-title="VIKINGOS", Vikings 4x18
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x18%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/6d/4d/23/6d4d234161a576076533858b7846abc6.png" group-title="VIKINGOS", Vikings 4x19
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x19%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/a5/ed/89/a5ed8939f59fc52f32b79f8afbf3657d.jpg" group-title="VIKINGOS", Vikings 4x20
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x20%20%20Serieshdpormega.com.mp4
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/4b/f1/ab/4bf1ab0e6d312e8dd8471c92257439c9.jpg" group-title="VIKINGOS", Vikings 6x11
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%206x11%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i1.sndcdn.com/artworks-000580704881-lphlcr-t500x500.jpg" group-title="VIKINGOS", Vikings 6x13
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%206x13%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/236x/51/5d/94/515d94861fb0c2df64f4215bf24684c2.jpg" group-title="VIKINGOS", Vikings 6x14
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%206x14%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1NzE3NzIwNl5BMl5BanBnXkFtZTgwMDY1MTc1ODE@._V1_UY1200_CR585,0,630,1200_AL_.jpg" group-title="VIKINGOS", Vikings 6x16
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%206x16%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/2f/09/d3/2f09d3a88fcd919a35f2b82bfb6c6b9d.jpg" group-title="VIKINGOS", Vikings 6x17
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%206x17%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://64.media.tumblr.com/8852a49d4f8347682f50d7ba1a274918/tumblr_inline_p9efzq9KEj1vf8vye_500.jpg" group-title="VIKINGOS", Vikings 6x19
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%206x19%20Serieshdpormega.com.mkv
+#EXTINF: -1 tvg-logo="https://64.media.tumblr.com/01c1ab608351380f1e6099a20b922156/tumblr_n0p9kl91Xo1s7xoeto1_r2_500.png" group-title="VIKINGOS", Vikings 6x20
+https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%206x20%20Serieshdpormega.com.mkv
 #EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71c18ZUx6aL._SL1181_.jpg" group-title="SOUTHPARK", S01E01 Cartman Consigue Una Sonda Anal
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/South%20Park%20S01E01%20Cartman%20Consigue%20Una%20Sonda%20Anal.mkv
 #EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71c18ZUx6aL._SL1181_.jpg" group-title="SOUTHPARK", S01E02 Aumento De Peso 4000
