@@ -801,7 +801,7 @@ https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/south%20park%202
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/south%20park%2022x09%20Unfulfilled.mp4
 #EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/718Lmw1dPdL._AC_SL1280_.jpg" group-title="SOUTHPARK", 22x10 Bike Parade
 https://archive.org/download/south-park-s-01-e-09-paco-el-flaco/south%20park%2022x10%20Bike%20Parade.mp4
-#EXTINF: -1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dany-5c77ee007218a-1551364106.jpg?crop=1.00xw:0.695xh;0,0.0277xh&resize=640:*" group-title="JUEGO DE TRONOS", Episodio 1x01 Se acerca el invierno.mp4
+#EXTINF: -1 tvg-logo="https://www.vodafone.es/c/statics/imagen/img_cartelera_1_juego_tronos.jpg?v=20170616121136" group-title="JUEGO DE TRONOS", Episodio 1x01 Se acerca el invierno.mp4
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%201x01%20Se%20acerca%20el%20invierno~1.mp4
 #EXTINF: -1 tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/01/rn34iJhmKbqx9G5ntULWvA5tKxN.jpg" group-title="JUEGO DE TRONOS", Episodio 1x02 El camino Real
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%201x02%20El%20camino%20Real.mp4
@@ -827,5 +827,29 @@ https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/E
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x02_%20Las%20tierras%20de%20la%20noche.mkv
 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/kwfXq01kkq22o4_LKddqP7jm3ASPNee23k4phgnoBO04jcg2jjOdMFvLbuFzmuiWs1bXGQ3yPHWLC3aP4JoA9wTzuinwNcmP43WVaJZqXbtVFUVQ" group-title="JUEGO DE TRONOS", Episodio 2x03_ Lo que está muerto no puede morir
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x03_%20Lo%20que%20est%C3%A1%20muerto%20no%20puede%20morir.mkv
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Game_of_Thrones_Serie_de_TV-757778559-large.jpg" group-title="JUEGO DE TRONOS", Episodio 2x04_ Jardín de huesos
+#EXTINF: -1 tvg-logo="https://media.vogue.es/photos/5ce6debaf8984bc850ab618a/master/w_1200,c_limit/vestuario_juego_de_tronos_4657.jpg" group-title="JUEGO DE TRONOS", Episodio 2x04_ Jardín de huesos
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x04_%20Jard%C3%ADn%20de%20huesos.mkv
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-8232eQkEF7k/XHE3aza69dI/AAAAAAAAVFE/wSHAzjsBs18b0Bw6Tb9A6Q15kJLuHq1vQCLcBGAs/s1600/Sansa%2BStark%2BGawalpop.jpg" group-title="JUEGO DE TRONOS", Episodio 2x05_ El fantasma de Harrenhal
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x05_%20El%20fantasma%20de%20Harrenhal.mkv
+#EXTINF: -1 tvg-logo="https://us.hola.com/imagenes/actualidad/20190521142466/preguntas-sin-responder-juego-de-tronos/0-682-365/juego-de-tronos2-a.jpg" group-title="JUEGO DE TRONOS", Episodio 2x06_ Los dioses antiguos y nuevos
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x06_%20Los%20dioses%20antiguos%20y%20nuevos.mkv
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/zERvRr9DlOY7-s4QQse_lLsnO6866s3YUjX9JYEVKlXti5TtsddqeBwcqoQvQJMCSAyx1a98gK33OE8HD_YSYZn3RExEgjG5bkQi2nKnOL6EKw6Aj3pj3m417JObEQOKKg" group-title="JUEGO DE TRONOS", Episodio 2x07_ Un hombre sin honor
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x07_%20Un%20hombre%20sin%20honor.mkv
+#EXTINF: -1 tvg-logo="https://media.vogue.es/photos/5ce6debaac45bfd367f90c99/master/w_1200,c_limit/vestuario_juego_de_tronos_6571.jpeg" group-title="JUEGO DE TRONOS", Episodio 2x08_ Un príncipe de Invernalia
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x08_%20Un%20pr%C3%ADncipe%20de%20Invernalia.mkv
+#EXTINF: -1 tvg-logo="https://i1.wp.com/wtfonline.mx/wp-content/uploads/2019/03/Arya_stark_s7_1.jpg?fit=320%2C480&ssl=1" group-title="JUEGO DE TRONOS", Episodio 2x09_ Aguasnegras
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x09_%20Aguasnegras.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/a3/36/a2/a336a2b718ff5761670ab106ad070a00.jpg" group-title="JUEGO DE TRONOS", Episodio 3x01 Valar Dohaeris
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x01%20Valar%20Dohaeris.mkv
+#EXTINF: -1 tvg-logo="https://elcomercio.pe/resizer/kCEH8QW-zgLAAhYZi2JQtXeHE4U=/1200x1200/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/RX5D4XX3DNBLNGFA4VMLZTKNJU.jpg" group-title="JUEGO DE TRONOS", Episodio 3x02 Alas negras, palabras negras
+https://elcomercio.pe/resizer/kCEH8QW-zgLAAhYZi2JQtXeHE4U=/1200x1200/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/RX5D4XX3DNBLNGFA4VMLZTKNJU.jpg
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/7e/ea/13/7eea137f2aeb7605899fc28c40f87f39.jpg" group-title="JUEGO DE TRONOS", Episodio 3x03 El camino del castigo
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x03%20El%20camino%20del%20castigo.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/ab/00/8d/ab008d949fbb89eca2a67496cfeb2e5d.jpg" group-title="JUEGO DE TRONOS", Episodio 3x04 Y ahora su guardia ha terminado
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x04%20Y%20ahora%20su%20guardia%20ha%20terminado.mkv
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71gPnu9lwsL._AC_SY879_.jpg" group-title="JUEGO DE TRONOS", Episodio 3x05 Besado por el fuego
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x05%20Besado%20por%20el%20fuego.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/736x/79/6d/52/796d5284a8200fee9ea8049152299012.jpg" group-title="JUEGO DE TRONOS", Episodio 3x06 El ascenso
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x06%20El%20ascenso.mkv
+#EXTINF: -1 tvg-logo="https://cdn.awsli.com.br/800x800/488/488909/produto/37826644/664158e8a2.jpg" group-title="JUEGO DE TRONOS", Episodio 3x07 El oso y la doncella.mkv
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x07%20El%20oso%20y%20la%20doncella.mkv
