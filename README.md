@@ -851,5 +851,11 @@ https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/E
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x05%20Besado%20por%20el%20fuego.mkv
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/736x/79/6d/52/796d5284a8200fee9ea8049152299012.jpg" group-title="JUEGO DE TRONOS", Episodio 3x06 El ascenso
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x06%20El%20ascenso.mkv
-#EXTINF: -1 tvg-logo="https://cdn.awsli.com.br/800x800/488/488909/produto/37826644/664158e8a2.jpg" group-title="JUEGO DE TRONOS", Episodio 3x07 El oso y la doncella.mkv
+#EXTINF: -1 tvg-logo="https://cdn.awsli.com.br/800x800/488/488909/produto/37826644/664158e8a2.jpg" group-title="JUEGO DE TRONOS", Episodio 3x07 El oso y la doncella
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x07%20El%20oso%20y%20la%20doncella.mkv
+#EXTINF: -1 tvg-logo="https://cdn.awsli.com.br/600x450/801/801579/produto/37800092/0a464758c8.jpg" group-title="JUEGO DE TRONOS", Episodio 3x08 Los segundos hijos
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x08%20Los%20segundos%20hijos.mkv
+#EXTINF: -1 tvg-logo="https://uploads.spiritfanfiction.com/fanfics/historias/201906/the-last-war--game-of-thrones-16863670-040720191355.jpg" group-title="JUEGO DE TRONOS", Episodio 3x09 Las lluvias de Castamere
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x09%20Las%20lluvias%20de%20Castamere.mkv
+#EXTINF: -1 tvg-logo="https://www.quadrorama.com.br/wp-content/themes/quadrorama/img/moldura/?quadro=2017/08/5-3.png&m=Moldura%20preta%20de%20madeira_0" group-title="JUEGO DE TRONOS", Episodio 3x10 Mhysa
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x10%20Mhysa.mkv
