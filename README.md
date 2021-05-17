@@ -825,7 +825,7 @@ https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/E
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x01_%20El%20Norte%20no%20olvida.mkv
 #EXTINF: -1 tvg-logo="https://www.moviementarios.com/wp-content/uploads/2019/09/Cartel-A3-Juego-de-Tronos-La-Exposicion-Oficial.jpg" group-title="JUEGO DE TRONOS", Episodio 2x02_ Las tierras de la noche
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x02_%20Las%20tierras%20de%20la%20noche.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/kwfXq01kkq22o4_LKddqP7jm3ASPNee23k4phgnoBO04jcg2jjOdMFvLbuFzmuiWs1bXGQ3yPHWLC3aP4JoA9wTzuinwNcmP43WVaJZqXbtVFUVQ" group-title="JUEGO DE TRONOS", Episodio 2x03_ Lo que está muerto no puede morir
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91wmOb0+tbL.jpg" group-title="JUEGO DE TRONOS", Episodio 2x03_ Lo que está muerto no puede morir
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x03_%20Lo%20que%20est%C3%A1%20muerto%20no%20puede%20morir.mkv
 #EXTINF: -1 tvg-logo="https://media.vogue.es/photos/5ce6debaf8984bc850ab618a/master/w_1200,c_limit/vestuario_juego_de_tronos_4657.jpg" group-title="JUEGO DE TRONOS", Episodio 2x04_ Jardín de huesos
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x04_%20Jard%C3%ADn%20de%20huesos.mkv
@@ -833,7 +833,7 @@ https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/E
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x05_%20El%20fantasma%20de%20Harrenhal.mkv
 #EXTINF: -1 tvg-logo="https://us.hola.com/imagenes/actualidad/20190521142466/preguntas-sin-responder-juego-de-tronos/0-682-365/juego-de-tronos2-a.jpg" group-title="JUEGO DE TRONOS", Episodio 2x06_ Los dioses antiguos y nuevos
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x06_%20Los%20dioses%20antiguos%20y%20nuevos.mkv
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/zERvRr9DlOY7-s4QQse_lLsnO6866s3YUjX9JYEVKlXti5TtsddqeBwcqoQvQJMCSAyx1a98gK33OE8HD_YSYZn3RExEgjG5bkQi2nKnOL6EKw6Aj3pj3m417JObEQOKKg" group-title="JUEGO DE TRONOS", Episodio 2x07_ Un hombre sin honor
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91wmOb0+tbL.jpg" group-title="JUEGO DE TRONOS", Episodio 2x07_ Un hombre sin honor
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x07_%20Un%20hombre%20sin%20honor.mkv
 #EXTINF: -1 tvg-logo="https://media.vogue.es/photos/5ce6debaac45bfd367f90c99/master/w_1200,c_limit/vestuario_juego_de_tronos_6571.jpeg" group-title="JUEGO DE TRONOS", Episodio 2x08_ Un príncipe de Invernalia
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x08_%20Un%20pr%C3%ADncipe%20de%20Invernalia.mkv
@@ -859,3 +859,87 @@ https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/E
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x09%20Las%20lluvias%20de%20Castamere.mkv
 #EXTINF: -1 tvg-logo="https://www.quadrorama.com.br/wp-content/themes/quadrorama/img/moldura/?quadro=2017/08/5-3.png&m=Moldura%20preta%20de%20madeira_0" group-title="JUEGO DE TRONOS", Episodio 3x10 Mhysa
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x10%20Mhysa.mkv
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91wmOb0+tbL.jpg" group-title="JUEGO DE TRONOS", Episodio 4x01 Dos espadas
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%204x01%20Dos%20espadas.mkv
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51+-VCNHKGL._SX324_BO1,204,203,200_.jpg" group-title="JUEGO DE TRONOS", Episodio 4x02 El león y la rosa
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%204x02%20El%20le%C3%B3n%20y%20la%20rosa.mkv
+#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51+-VCNHKGL._SX324_BO1,204,203,200_.jpg" group-title="JUEGO DE TRONOS", Episodio 4x03 Rompedora de cadenas
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%204x03%20Rompedora%20de%20cadenas.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/d7/ae/b2/d7aeb20791a9961e0276c423e97d7bc2.png" group-title="JUEGO DE TRONOS", Episodio 4x05 El primero de su nombre
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%204x05%20El%20primero%20de%20su%20nombre.mkv
+#EXTINF: -1 tvg-logo="http://ekladata.com/5SxlOhvYocpkjWgP7bVcS6E9Wzk.jpg" group-title="JUEGO DE TRONOS", Episodio 4x06 Leyes de dioses y hombres
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%204x06%20Leyes%20de%20dioses%20y%20hombres.mkv
+#EXTINF: -1 tvg-logo="https://comicvine.gamespot.com/a/uploads/original/3/39241/5301537-promo_%28tyrion%2C_jaime%2C_cersei%29_saison_3.jpg" group-title="JUEGO DE TRONOS", Episodio 4x07 Sinsonte
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%204x07%20Sinsonte.mkv
+#EXTINF: -1 tvg-logo="http://images6.fanpop.com/image/photos/34000000/House-Lannister-HQ-house-lannister-34002704-774-1210.jpg" group-title="JUEGO DE TRONOS", Episodio 4x08 La montaña y la víbora
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%204x08%20La%20monta%C3%B1a%20y%20la%20v%C3%ADbora.mkv
+#EXTINF: -1 tvg-logo="https://api.time.com/wp-content/uploads/2017/06/cersei-lannister-lena-headey-costume-2.jpg" group-title="JUEGO DE TRONOS", Episodio 4x09 Los vigilantes del Muro
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%204x09%20Los%20vigilantes%20del%20Muro.mkv
+#EXTINF: -1 tvg-logo="https://i.redd.it/nsd4h3h7xqo31.jpg" group-title="JUEGO DE TRONOS", Episodio 4x10 Los niños
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%204x10%20Los%20ni%C3%B1os.mkv
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/gameofthrones/images/d/d0/JonSnow8x06.PNG/revision/latest?cb=20190714094440" group-title="JUEGO DE TRONOS", Episodio 5x01 Las guerras por venir
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x01%20Las%20guerras%20por%20venir.mkv
+#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-bk771vHyaXI/V1dwnW6hGkI/AAAAAAAAAZs/CI_YQ6-t22k5flY-saWfcEu9t9Vf6E3PwCLcB/s1600/001.jpg" group-title="JUEGO DE TRONOS", Episodio 5x02 La casa de negro y blanco
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x02%20La%20casa%20de%20negro%20y%20blanco.mkv
+#EXTINF: -1 tvg-logo="https://static5.opensubtitles.org/gfx/thumbs/6/3/8/6/3866836.jpg" group-title="JUEGO DE TRONOS", Episodio 5x03 Gorrión Supremo
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x03%20Gorri%C3%B3n%20Supremo%20.mkv
+#EXTINF: -1 tvg-logo="https://golinmena.com/images/the_badass_thing_game_of_thrones_daenerys_targaryen_wears_under_every_single_dress_2.jpg" group-title="JUEGO DE TRONOS", Episodio 5x04 Los Hijos de la Arpía
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x03%20Gorri%C3%B3n%20Supremo%20.mkv
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-GZg4t657eM0/WVASeK5pl5I/AAAAAAAAAEE/i48QCGQFeosoCEqM3n9MvMcuviljrZoNgCLcBGAs/s1600/poster-game-of-thrones.jpg" group-title="JUEGO DE TRONOS", Episodio 5x05 Mata al niño
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x05%20Mata%20al%20ni%C3%B1o.mkv
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/U_YRGWr7fRk/hqdefault.jpg" group-title="JUEGO DE TRONOS", Episodio 5x06 Nunca doblegado, Nunca roto
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x06%20Nunca%20doblegado%2C%20Nunca%20roto.mkv
+#EXTINF: -1 tvg-logo="https://i0.wp.com/lossietereinos.com/wp-content/uploads/2015/05/juego-de-tronos-5x07-3.jpg?resize=696%2C392&ssl=1" group-title="JUEGO DE TRONOS", Episodio 5x07 El regalo
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x07%20El%20regalo.mkv
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-GZg4t657eM0/WVASeK5pl5I/AAAAAAAAAEE/i48QCGQFeosoCEqM3n9MvMcuviljrZoNgCLcBGAs/s1600/poster-game-of-thrones.jpg" group-title="JUEGO DE TRONOS", Episodio 5x08 Casa Austera
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x08%20Casa%20Austera.mkv
+#EXTINF: -1 tvg-logo="https://lectuepubgratis.com/wp-content/uploads/2019/05/Danza-de-dragones-e1559256966334.jpg" group-title="JUEGO DE TRONOS", Episodio 5x09 La Danza de Dragones
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x09%20La%20Danza%20de%20Dragones%20.mkv
+#EXTINF: -1 tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/series-television/juego-de-tronos-encuentro-grosero-lena-heady-fan/135370524-1-esl-ES/El-encuentro-mas-grosero-entre-Lena-Heady-y-una-fan-de-Juego-de-Tronos.jpg" group-title="JUEGO DE TRONOS", Episodio 5x10 La Misericordia de la Madre
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x10%20La%20Misericordia%20de%20la%20Madre%20.mkv
+#EXTINF: -1 tvg-logo="https://static1.opensubtitles.org/gfx/thumbs/4/1/0/8/3658014.jpg" group-title="JUEGO DE TRONOS", Episodio 6x01 La mujer roja
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%206x01%20La%20mujer%20roja.mkv
+#EXTINF: -1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jon-nieve-juego-de-tronos-final-1566461697.jpg" group-title="JUEGO DE TRONOS", Episodio 6x02 A casa
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%206x02%20A%20casa.mkv
+#EXTINF: -1 tvg-logo="https://i.redd.it/h7uga1bv24fz.jpg" group-title="JUEGO DE TRONOS", Episodio 6x03 Rompejuramentos
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%206x03%20Rompejuramentos.mkv
+#EXTINF: -1 tvg-logo="http://www.noticiasenserie.com/wp-content/uploads/2016/05/GoT-15.jpg" group-title="JUEGO DE TRONOS", Episodio 6x04 El libro del Desconocido
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%206x04%20El%20libro%20del%20Desconocido.mkv
+#EXTINF: -1 tvg-logo="https://www.clara.es/medio/2019/01/23/kit-harrington-jon-snow_34529843_600x900.jpg" group-title="JUEGO DE TRONOS", Episodio 6x05 La Puerta
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%206x05%20La%20Puerta.mkv
+#EXTINF: -1 tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/juego-de-tronos-todo-lo-que-necesitas-saber-del-episodio-6x04/105715632-1-esl-ES/Juego-de-Tronos-todo-lo-que-necesitas-saber-del-episodio-6x04.jpg" group-title="JUEGO DE TRONOS", Episodio 6x06 Sangre de mi sangre
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%206x06%20Sangre%20de%20mi%20sangre.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c9/22/d0/c922d04e750f7bc63d4ed96210d00055.jpg" group-title="JUEGO DE TRONOS", Episodio 6x07 El hombre destrozado
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%206x07%20El%20hombre%20destrozado.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/d0/04/27/d00427a73581f658093c3d4f1ba53339.jpg" group-title="JUEGO DE TRONOS", Episodio 6x08 Nadie
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%206x08%20Nadie.mkv
+#EXTINF: -1 tvg-logo="https://img.ecartelera.com/noticias/32000/32097-m.jpg" group-title="JUEGO DE TRONOS", Episodio 6x09 La Batalla de los Bastardos
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%206x09%20La%20Batalla%20de%20los%20Bastardos.mkv
+#EXTINF: -1 tvg-logo="http://pa1.narvii.com/6569/8f7a22d2d879236559e89578b2db92bc85a3f3ac_00.gif" group-title="JUEGO DE TRONOS", Episodio 6x10 Vientos de Invierno
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%206x10%20Vientos%20de%20Invierno%20.mkv
+#EXTINF: -1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2017/07/juego-tronos-7x01-dragonstone-primeras-imagenes-capitulo_16.jpg?itok=RJCxMv1z" group-title="JUEGO DE TRONOS", Episodio 7x01 Rocadragón
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%207x01%20Rocadrag%C3%B3n%20.mkv
+#EXTINF: -1 tvg-logo="https://i2.wp.com/xn--lacompaialibredebraavos-yhc.com/wp-content/uploads/2017/07/Sansa-se-despide-de-Jon.jpg?resize=1295%2C1600&ssl=1" group-title="JUEGO DE TRONOS", Episodio 7x02 Nacida de la Tormenta
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%207x02%20Nacida%20de%20la%20Tormenta.mp4
+#EXTINF: -1 tvg-logo="https://ep01.epimg.net/cultura/imagenes/2017/07/31/television/1501491014_661211_1501494896_sumario_normal.jpg" group-title="JUEGO DE TRONOS", Episodio 7x03 La Justicia de la Reina
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%207x03%20La%20Justicia%20de%20la%20Reina.mkv
+#EXTINF: -1 tvg-logo="https://mfiles.alphacoders.com/691/691066.jpg" group-title="JUEGO DE TRONOS", Episodio 7x04 Botines de guerra
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%207x04%20Botines%20de%20guerra.mkv
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/400/422/2_m3.jpg" group-title="JUEGO DE TRONOS", Episodio 7x05 Guardiaoriente
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%207x05%20Guardiaoriente%20.mkv
+#EXTINF: -1 tvg-logo="https://mfiles.alphacoders.com/630/thumb-630195.jpg" group-title="JUEGO DE TRONOS", Episodio 7x06 Más allá del Muro
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%207x06%20M%C3%A1s%20all%C3%A1%20del%20Muro%20%20.mkv
+#EXTINF: -1 tvg-logo="https://ep01.epimg.net/cultura/imagenes/2017/08/27/television/1503846605_671902_1503846903_noticia_normal.jpg" group-title="JUEGO DE TRONOS", Episodio 7x07 El Dragón y el Lobo
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%207x07%20El%20Drag%C3%B3n%20y%20el%20Lobo.mp4
+#EXTINF: -1 tvg-logo="https://seriesonday.com/wp-content/uploads/2016/04/Game-of-Thrones-Season-6-Poster-1.jpg" group-title="JUEGO DE TRONOS", Episodio 8x01 Winterfell
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x01%20Winterfell%20.mkv
+#EXTINF: -1 tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2019/04/21-brienne-knighting-new.w700.h700.jpg" group-title="JUEGO DE TRONOS", Episodio 8x02 Un caballero de los Siete Reinos
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x02%20Un%20caballero%20de%20los%20Siete%20Reinos%20.mkv
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-QbgvODf3g4E/XK3KVSdrl2I/AAAAAAAAWII/8rpGQQZ5jOshnK82EG7XBpXCph4F20nlACLcBGAs/s1600/White%2BWalkers%2BGawalpop.jpg" group-title="JUEGO DE TRONOS", Episodio 8x03 La Larga Noche
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x03%20La%20Larga%20Noche%20.mkv
+#EXTINF: -1 tvg-logo="https://s1.r29static.com/bin/entry/7ae/x/1841434/image.png" group-title="JUEGO DE TRONOS", Episodio 8x04 Los últimos Stark
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x04%20Los%20%C3%BAltimos%20Stark%20.mkv
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/736x/0b/44/e0/0b44e0d9ecd60b075ea69b5bae3666d2.jpg" group-title="JUEGO DE TRONOS", Episodio 8x05 Las campanas
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x05%20Las%20campanas%20.mkv
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/D6-r9H6U0AEdTxx.jpg" group-title="JUEGO DE TRONOS", Episodio 8x06 El Trono de Hierro
+https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x06%20El%20Trono%20de%20Hierro.mkv
