@@ -943,3 +943,37 @@ https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x04%20Los%20%C
 https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x05%20Las%20campanas%20.mkv
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/D6-r9H6U0AEdTxx.jpg" group-title="JUEGO DE TRONOS", Episodio 8x06 El Trono de Hierro
 https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x06%20El%20Trono%20de%20Hierro.mkv
+#EXTINF: -1 tvg-logo="https://media2.giphy.com/media/kuTUxUevkv2gM/giphy.gif" group-title="FUTURAMA", Piloto Espacial 3000
+http://bit.ly/2Epug54
+#EXTINF: -1 tvg-logo="https://static.vix.com/es/sites/default/files/f/fry-8.gif" group-title="FUTURAMA", La Serie Ha Aterrizado
+http://bit.ly/2OSTAnS
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nQt3KxF.gif" group-title="FUTURAMA", Yo Compaero De Piso
+http://bit.ly/2OkoQg1
+#EXTINF: -1 tvg-logo="https://static.vix.com/es/sites/default/files/btg/series.batanga.com/files/10-grandes-y-sensuales-momentos-de-Zapp-Brannigan-en-Futurama-3.gif" group-title="FUTURAMA", Obras de Amor Perdidas en el Espacio
+http://bit.ly/2A6yc6z
+#EXTINF: -1 tvg-logo="https://arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/CWTRCFC5E5E2PN6A25TW4XSKLM" group-title="FUTURAMA", Temores de un Planeta Robot
+http://bit.ly/2OmHuEa
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/b7/c9/db/b7c9dba0bd9d1c6f8f8d8577234f83cb.gif" group-title="FUTURAMA", Unos Valiosos Pececitos
+http://bit.ly/2yfGsQ5
+#EXTINF: -1 tvg-logo="https://media0.giphy.com/media/8iOzrJARYNURO/giphy.gif" group-title="FUTURAMA", Mis Tres Soles
+http://bit.ly/2OmhMja
+#EXTINF: -1 tvg-logo="https://media.giphy.com/media/yAYZnhvY3fflS/giphy.gif" group-title="FUTURAMA", Un Enorme Montón de Basura
+http://bit.ly/2yepkKO
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/44/15/14/441514f418eb119663fb04c141c87ef4.gif" group-title="FUTURAMA", El Infierno Está en los Demás Robots
+http://bit.ly/2ORxClk
+#EXTINF: -1 tvg-logo="https://media.giphy.com/media/LlTYKN146VMyI/giphy.gif" group-title="FUTURAMA", Un Vuelo Inolvidable
+http://bit.ly/2CGXwCr
+#EXTINF: -1 tvg-logo="https://bardulias.com/wp-content/uploads/2020/04/fry-futurama-bienvenido-al-mundo-del-man%CC%83ana.gif" group-title="FUTURAMA", Universidad de Marte
+http://bit.ly/2PtPPCh
+#EXTINF: -1 tvg-logo="https://i1.wp.com/applauss.com/wp-content/uploads/2017/09/fry-baila.gif?resize=356%2C275&ssl=1" group-title="FUTURAMA", Cuando los Extraterrestres Atacan
+http://bit.ly/2yew1fR
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/24/ef/69/24ef6973ba3a7002eb7f7bb75751a586.gif" group-title="FUTURAMA", Fry y la Fábrica de Slurm
+http://bit.ly/2Oi8C74
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLPcbrLrER8hYDpSaPgm9P4dsxaWznUVs_Q&usqp=CAU" group-title="FUTURAMA", Yo siento esa emoción
+http://bit.ly/2EiKvAG
+#EXTINF: -1 tvg-logo="https://media1.tenor.com/images/afde0d00bba0418823f48ac140b21c3d/tenor.gif?itemid=17514196" group-title="FUTURAMA", comienza de nuevo
+http://bit.ly/2pXgiNL
+#EXTINF: -1 tvg-logo="https://i.imgur.com/U6tUNjl.gif" group-title="FUTURAMA", A la cabeza de las elecciones
+http://bit.ly/2NG0t7g
+#EXTINF: -1 tvg-logo="https://intrepidocinefilo.files.wordpress.com/2012/07/futuramagif2.gif" group-title="FUTURAMA", Cuento de Navidad
+http://bit.ly/2IQjV0g
