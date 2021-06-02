@@ -807,7 +807,7 @@ https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/E
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%201x02%20El%20camino%20Real.mp4
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/564x/ee/a1/9b/eea19bc6b5d0747657ba6d70e87a2bc2.jpg" group-title="JUEGO DE TRONOS", Episodio 1x03 Lord Nieve
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%201x03%20Lord%20Nieve.mp4
-#EXTINF: -1 tvg-logo="https://i.redd.it/h7uga1bv24fz.jpg" group-title="JUEGO DE TRONOS", Episodio 1x04 Tullidos, Bastardos y cosas rotas
+#EXTINF: -1 tvg-logo="https://i.redd.it/h7uga1bv24fz.jpg" group-title="JUEGO DE TRONOS", Bastardos y cosas rotas
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%201x04%20Tullidos%2C%20Bastardos%20y%20cosas%20rotas.mp4
 #EXTINF: -1 tvg-logo="https://rosi.savepoint.es/wp-content/uploads/2019/08/game-of-thrones-juego-de-tronos.jpg" group-title="JUEGO DE TRONOS", Episodio 1x05 El lobo y el león
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%201x05%20El%20lobo%20y%20el%20le%C3%B3n.mp4
@@ -841,7 +841,7 @@ https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/E
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%202x09_%20Aguasnegras.mkv
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/a3/36/a2/a336a2b718ff5761670ab106ad070a00.jpg" group-title="JUEGO DE TRONOS", Episodio 3x01 Valar Dohaeris
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x01%20Valar%20Dohaeris.mkv
-#EXTINF: -1 tvg-logo="https://elcomercio.pe/resizer/kCEH8QW-zgLAAhYZi2JQtXeHE4U=/1200x1200/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/RX5D4XX3DNBLNGFA4VMLZTKNJU.jpg" group-title="JUEGO DE TRONOS", Episodio 3x02 Alas negras, palabras negras
+#EXTINF: -1 tvg-logo="https://elcomercio.pe/resizer/kCEH8QW-zgLAAhYZi2JQtXeHE4U=/1200x1200/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/RX5D4XX3DNBLNGFA4VMLZTKNJU.jpg" group-title="JUEGO DE TRONOS", palabras negras
 https://elcomercio.pe/resizer/kCEH8QW-zgLAAhYZi2JQtXeHE4U=/1200x1200/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/RX5D4XX3DNBLNGFA4VMLZTKNJU.jpg
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/7e/ea/13/7eea137f2aeb7605899fc28c40f87f39.jpg" group-title="JUEGO DE TRONOS", Episodio 3x03 El camino del castigo
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x03%20El%20camino%20del%20castigo.mkv
@@ -887,7 +887,7 @@ https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x03%20Gorri%C3
 https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x03%20Gorri%C3%B3n%20Supremo%20.mkv
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-GZg4t657eM0/WVASeK5pl5I/AAAAAAAAAEE/i48QCGQFeosoCEqM3n9MvMcuviljrZoNgCLcBGAs/s1600/poster-game-of-thrones.jpg" group-title="JUEGO DE TRONOS", Episodio 5x05 Mata al niño
 https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x05%20Mata%20al%20ni%C3%B1o.mkv
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/U_YRGWr7fRk/hqdefault.jpg" group-title="JUEGO DE TRONOS", Episodio 5x06 Nunca doblegado, Nunca roto
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/U_YRGWr7fRk/hqdefault.jpg" group-title="JUEGO DE TRONOS", Nunca roto
 https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x06%20Nunca%20doblegado%2C%20Nunca%20roto.mkv
 #EXTINF: -1 tvg-logo="https://i0.wp.com/lossietereinos.com/wp-content/uploads/2015/05/juego-de-tronos-5x07-3.jpg?resize=696%2C392&ssl=1" group-title="JUEGO DE TRONOS", Episodio 5x07 El regalo
 https://archive.org/download/episodio-4x-10-los-ninos/Episodio%205x07%20El%20regalo.mkv
@@ -977,3 +977,11 @@ http://bit.ly/2pXgiNL
 http://bit.ly/2NG0t7g
 #EXTINF: -1 tvg-logo="https://intrepidocinefilo.files.wordpress.com/2012/07/futuramagif2.gif" group-title="FUTURAMA", Cuento de Navidad
 http://bit.ly/2IQjV0g
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch Serie de TV 2021", Star Wars The Bad Batch 1x1
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Star%20Wars%20The%20Bad%20Batch%201x1.ia.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch Serie de TV 2021", Star Wars The Bad Batch 1x2
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Star%20Wars%20The%20Bad%20Batch%201x2.ia.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch Serie de TV 2021", Star Wars The Bad Batch 1x3
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Star%20Wars%20The%20Bad%20Batch%201x3.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch Serie de TV 2021", Star Wars The Bad Batch 1x4
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Star%20Wars%20The%20Bad%20Batch%201x4.mp4
