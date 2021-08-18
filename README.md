@@ -207,7 +207,7 @@ https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x01%20
 https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x02%20Serieshdpormega.com~1.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgj0VDaAlNYPOwd8zqWjZ2z0L9yP6rSCf7mxATRDW31-AeockKanUonzvB-afwyt4KFw&usqp=CAU" group-title="VIKINGOS",Vikings 4x03
 https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x03%20Serieshdpormega.com~1.mp4
-#EXTINF:-1 tvg-logo="https://cronicadexalapa.com/wp-content/uploads/2017/09/vikingos.jpg" group-title="VIKINGOS",Vikings 4x04
+#EXTINF:-1 tvg-logo="https://seriesonday.com/wp-content/uploads/2016/03/vikings-4x04-yol-4-e1458420226189.png" group-title="VIKINGOS",Vikings 4x04
 https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x04%20Serieshdpormega.com~1.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7c/12/9a/7c129af5e58a388d180b76bba477519a.jpg" group-title="VIKINGOS",Vikings 4x05
 https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x05%20Serieshdpormega.com.mp4
@@ -231,7 +231,7 @@ https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x13%20
 https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x14%20Serieshdpormega.com.mp4
 #EXTINF:-1 tvg-logo="https://www.latercera.com/resizer/PEYc-MvjwxQ1q0tZB20c7Ssi03k=/380x570/filters:focal(452x153:462x143)/cloudfront-us-east-1.images.arcpublishing.com/copesa/IOUT4N4AK5BXPJAXVIVR7GPU2I.jpg" group-title="VIKINGOS",Vikings 4x15
 https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x15%20Serieshdpormega.com.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/MO1rxfolXEPxs9aHsutgM_pFVgu24NQHEFwAl2K7jUb8rTe75Yj9_IOQ340dkTi82c2MfkSZQXrzU-enZQxuYu479-34Z09XCCVS2Q" group-title="VIKINGOS",Vikings 4x16
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2017/02/vikingos-4x16_3.jpg?itok=1I_A9k5c" group-title="VIKINGOS",Vikings 4x16
 https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x16%20Serieshdpormega.com.mp4
 #EXTINF:-1 tvg-logo="https://vader.news/__export/1599891073729/sites/gadgets/img/2020/09/12/halfdan.jpg_417920599.jpg" group-title="VIKINGOS",Vikings 4x17
 https://archive.org/download/vikings-4x-06-serieshdpormega.com/Vikings%204x17%20Serieshdpormega.com.mp4
@@ -925,46 +925,78 @@ https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x04%20Los%20%C
 https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x05%20Las%20campanas%20.mkv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D6-r9H6U0AEdTxx.jpg" group-title="JUEGO DE TRONOS",Episodio 8x06 El Trono de Hierro
 https://archive.org/download/episodio-4x-10-los-ninos/Episodio%208x06%20El%20Trono%20de%20Hierro.mkv
-#EXTINF:-1 tvg-logo="https://media2.giphy.com/media/kuTUxUevkv2gM/giphy.gif" group-title="FUTURAMA",Piloto Espacial 3000
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Vc93lEV6Ngs/UPxiLMcT4KI/AAAAAAAAB7c/9m1xkbMlJGI/s200/vlcsnap-122413.png" group-title="FUTURAMA",Piloto Espacial 3000
 http://bit.ly/2Epug54
-#EXTINF:-1 tvg-logo="https://static.vix.com/es/sites/default/files/f/fry-8.gif" group-title="FUTURAMA",La Serie Ha Aterrizado
+#EXTINF:-1 tvg-logo="https://futurama-latino.net/wp-content/uploads/2019/06/1x02.jpg" group-title="FUTURAMA",La Serie Ha Aterrizado
 http://bit.ly/2OSTAnS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nQt3KxF.gif" group-title="FUTURAMA",Yo Compaero De Piso
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.a4acdf5de3c63e8b72f7d6901605e5ad?rik=Ga%2fPxN4VkJHkNw&riu=http%3a%2f%2fimages.nymag.com%2fimages%2f2%2fdaily%2f2011%2f02%2f02_futurama_190x190.jpg&ehk=5QlVjgqdXv%2fuNfy9T4D5venMB1vZbJK%2bJB7uAykQN5g%3d&risl=&pid=ImgRaw&r=0" group-title="FUTURAMA",Yo Compaero De Piso
 http://bit.ly/2OkoQg1
-#EXTINF:-1 tvg-logo="https://static.vix.com/es/sites/default/files/btg/series.batanga.com/files/10-grandes-y-sensuales-momentos-de-Zapp-Brannigan-en-Futurama-3.gif" group-title="FUTURAMA",Obras de Amor Perdidas en el Espacio
+#EXTINF:-1 tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2011/08/1acv0460-400x304.jpg" group-title="FUTURAMA",Obras de Amor Perdidas en el Espacio
 http://bit.ly/2A6yc6z
-#EXTINF:-1 tvg-logo="https://arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/CWTRCFC5E5E2PN6A25TW4XSKLM" group-title="FUTURAMA",Temores de un Planeta Robot
+#EXTINF:-1 tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2011/08/1acv0518-400x304.jpg" group-title="FUTURAMA",Temores de un Planeta Robot
 http://bit.ly/2OmHuEa
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b7/c9/db/b7c9dba0bd9d1c6f8f8d8577234f83cb.gif" group-title="FUTURAMA",Unos Valiosos Pececitos
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zBc7uy-qN2YIihB-KoCGTgHaFj?pid=ImgDet&rs=1" group-title="FUTURAMA",Unos Valiosos Pececitos
 http://bit.ly/2yfGsQ5
-#EXTINF:-1 tvg-logo="https://media0.giphy.com/media/8iOzrJARYNURO/giphy.gif" group-title="FUTURAMA",Mis Tres Soles
+#EXTINF:-1 tvg-logo="https://futurama-latino.net/wp-content/uploads/2019/06/1x07.jpg" group-title="FUTURAMA",Mis Tres Soles
 http://bit.ly/2OmhMja
-#EXTINF:-1 tvg-logo="https://media.giphy.com/media/yAYZnhvY3fflS/giphy.gif" group-title="FUTURAMA",Un Enorme Montón de Basura
+#EXTINF:-1 tvg-logo="https://thesimpsonsrp.com/wp-content/thumbgen_cache/466689a8ee7b927db7662a319cb7d016.jpg" group-title="FUTURAMA",Un Enorme Montón de Basura
 http://bit.ly/2yepkKO
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/15/14/441514f418eb119663fb04c141c87ef4.gif" group-title="FUTURAMA",El Infierno Está en los Demás Robots
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.dfe1151abce44ccf6b99c7eb18c6e4cb?rik=0dBNG%2bbKIxq9Ag&pid=ImgRaw&r=0" group-title="FUTURAMA",El Infierno Está en los Demás Robots
 http://bit.ly/2ORxClk
-#EXTINF:-1 tvg-logo="https://media.giphy.com/media/LlTYKN146VMyI/giphy.gif" group-title="FUTURAMA",Un Vuelo Inolvidable
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5AFwMenzesdH2fM2Nv7kNspcxn2.jpg" group-title="FUTURAMA",Un Vuelo Inolvidable
 http://bit.ly/2CGXwCr
-#EXTINF:-1 tvg-logo="https://bardulias.com/wp-content/uploads/2020/04/fry-futurama-bienvenido-al-mundo-del-man%CC%83ana.gif" group-title="FUTURAMA",Universidad de Marte
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XAfZ5gk4o44/maxresdefault.jpg" group-title="FUTURAMA",Universidad de Marte
 http://bit.ly/2PtPPCh
-#EXTINF:-1 tvg-logo="https://i1.wp.com/applauss.com/wp-content/uploads/2017/09/fry-baila.gif?resize=356%2C275&ssl=1" group-title="FUTURAMA",Cuando los Extraterrestres Atacan
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.c8mDd67jI7eV_uXNGkxHOAHaFj?pid=ImgDet&rs=1" group-title="FUTURAMA",Cuando los Extraterrestres Atacan
 http://bit.ly/2yew1fR
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/24/ef/69/24ef6973ba3a7002eb7f7bb75751a586.gif" group-title="FUTURAMA",Fry y la Fábrica de Slurm
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-sPabTrMeDak/U07AQSy1q4I/AAAAAAAACtc/USBl2T0oLWw/s1600/Futurama+01x13.mp4_snapshot_05.56_[2012.11.07_18.23.43].jpg" group-title="FUTURAMA",Fry y la Fábrica de Slurm
 http://bit.ly/2Oi8C74
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLPcbrLrER8hYDpSaPgm9P4dsxaWznUVs_Q&usqp=CAU" group-title="FUTURAMA",Yo siento esa emoción
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.29a0b63f463422e1beb76454bee5178d?rik=42Tn0SgscJh8sA&pid=ImgRaw&r=0" group-title="FUTURAMA",Yo siento esa emoción
 http://bit.ly/2EiKvAG
-#EXTINF:-1 tvg-logo="https://media1.tenor.com/images/afde0d00bba0418823f48ac140b21c3d/tenor.gif?itemid=17514196" group-title="FUTURAMA",comienza de nuevo
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9f91fe66e994b50bf93e68048be701c9?rik=FqXKtZiIHVTqIA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-hafuJpG5xt8%2fUaopHf7YSgI%2fAAAAAAAADw0%2fLT4MRCcOxTk%2fs1600%2f2x2.jpg&ehk=WBJBFOzy0DeFfq9cqR%2b8yJ%2b%2flfSdJdQy9Rz%2f3yJrdqQ%3d&risl=&pid=ImgRaw&r=0" group-title="FUTURAMA",comienza de nuevo
 http://bit.ly/2pXgiNL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U6tUNjl.gif" group-title="FUTURAMA",A la cabeza de las elecciones
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tngKcNkJX20/UJsFoINcEYI/AAAAAAAAU4A/EjS2qmzaAtM/s1600/Futurama%2B02x03.mp4_snapshot_11.21_%255B2012.11.07_22.05.13%255D.jpg" group-title="FUTURAMA",A la cabeza de las elecciones
 http://bit.ly/2NG0t7g
-#EXTINF:-1 tvg-logo="https://intrepidocinefilo.files.wordpress.com/2012/07/futuramagif2.gif" group-title="FUTURAMA",Cuento de Navidad
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zxO5TbCNisw/maxresdefault.jpg" group-title="FUTURAMA",Cuento de Navidad
 http://bit.ly/2IQjV0g
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters at Work 1.1
 https://archive.org/download/como-me-converti-en-superheroe/1x1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters at Work 1.2
 https://archive.org/download/como-me-converti-en-superheroe/1x2.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Star%20Wars%20The%20Bad%20Batch.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1X11
-https://archive.org/download/como-me-converti-en-superheroe/Star%20Wars%20The%20Bad%20Batch.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters.at.Work 1x3
+https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x3.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters.at.Work 1x4
+https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x4.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters.at.Work 1x5
+https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x5.m4v
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters.at.Work 1x6
+https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x6.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Star%20Wars%20The%20Bad%20Batch.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x1
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x1.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x2
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x2.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x3
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x3.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x4
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x4.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x5
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x5.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x6
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x6.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x7
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x7.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x8
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x8.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x9
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x9.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x10
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x10.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x11
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x11.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x12
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x12.mp4
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x13
+https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x13.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Biohackers.jpg" group-title="Biohackers",Biohackers 1X1
 https://archive.org/download/como-me-converti-en-superheroe/Biohackers%20S02E01.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Biohackers.jpg" group-title="Biohackers",Biohackers 1X2
@@ -1107,3 +1139,117 @@ https://archive.org/download/como-me-converti-en-superheroe/Mortal%202x4.mp4
 https://archive.org/download/como-me-converti-en-superheroe/Mortal%202x5.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Mortel%202%202021.jpg" group-title="MORTAL 2",Mortal 2 2x6
 https://archive.org/download/como-me-converti-en-superheroe/Mortal%202x6.mp4
+#EXTINF:-1 tvg-logo="https://topvsereshim.com/wp-content/uploads/2021/08/ovnis-proyectos-de-alto-secreto-desclasificados-127919-poster.jpg" group-title="PROYECTOS DE ALTO SECRETOS DESCLASIFICADOS",1X1 Proyectos de alto secreto desclasificados
+https://archive.org/download/sr-y-sra-smith/1X1%20Proyectos%20de%20alto%20secreto%20desclasificados.m4v
+#EXTINF:-1 tvg-logo="https://topvsereshim.com/wp-content/uploads/2021/08/ovnis-proyectos-de-alto-secreto-desclasificados-127919-poster.jpg" group-title="PROYECTOS DE ALTO SECRETOS DESCLASIFICADOS",1X2 Proyectos de alto secreto desclasificados
+https://archive.org/download/sr-y-sra-smith/1X2%20Proyectos%20de%20alto%20secreto%20desclasificados.m4v
+#EXTINF:-1 tvg-logo="https://topvsereshim.com/wp-content/uploads/2021/08/ovnis-proyectos-de-alto-secreto-desclasificados-127919-poster.jpg" group-title="PROYECTOS DE ALTO SECRETOS DESCLASIFICADOS",1X3 Proyectos de alto secreto desclasificados
+https://archive.org/download/sr-y-sra-smith/1X3%20Proyectos%20de%20alto%20secreto%20desclasificados.m4v
+#EXTINF:-1 tvg-logo="https://topvsereshim.com/wp-content/uploads/2021/08/ovnis-proyectos-de-alto-secreto-desclasificados-127919-poster.jpg" group-title="PROYECTOS DE ALTO SECRETOS DESCLASIFICADOS",1X4 Proyectos de alto secreto desclasificados
+https://archive.org/download/sr-y-sra-smith/1X4%20Proyectos%20de%20alto%20secreto%20desclasificados.m4v
+#EXTINF:-1 tvg-logo="https://topvsereshim.com/wp-content/uploads/2021/08/ovnis-proyectos-de-alto-secreto-desclasificados-127919-poster.jpg" group-title="PROYECTOS DE ALTO SECRETOS DESCLASIFICADOS",1X5 Proyectos de alto secreto desclasificados
+https://archive.org/download/sr-y-sra-smith/1X5%20Proyectos%20de%20alto%20secreto%20desclasificados.m4v
+#EXTINF:-1 tvg-logo="https://topvsereshim.com/wp-content/uploads/2021/08/ovnis-proyectos-de-alto-secreto-desclasificados-127919-poster.jpg" group-title="PROYECTOS DE ALTO SECRETOS DESCLASIFICADOS",1X6 Proyectos de alto secreto desclasificados
+https://archive.org/download/sr-y-sra-smith/1X6%20Proyectos%20de%20alto%20secreto%20desclasificados.m4v
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/83/43/68/19690921.jpg" group-title="SIN LIMITES",1x02 - Sin limites Placa Arma
+https://ia801404.us.archive.org/19/items/sr-y-sra-smith/1x02%20-%20Sin%20limites%20Placa%20Arma.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2473/1_m3.jpg" group-title="Cruel Summer",1X1 Cruel Summe
+https://archive.org/download/sr-y-sra-smith/Cruel%20Summer%201x1.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2473/1_m3.jpg" group-title="Cruel Summer",1X2 Cruel Summe
+https://archive.org/download/sr-y-sra-smith/Cruel%20Summer%201x2.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2473/1_m3.jpg" group-title="Cruel Summer",1X3 Cruel Summe
+https://archive.org/download/sr-y-sra-smith/Cruel%20Summer%201x3.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2473/1_m3.jpg" group-title="Cruel Summer",1X4 Cruel Summe
+https://archive.org/download/sr-y-sra-smith/Cruel%20Summer%201x4.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2473/1_m3.jpg" group-title="Cruel Summer",1X5 Cruel Summe
+https://archive.org/download/sr-y-sra-smith/Cruel%20Summer%201x5.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2473/1_m3.jpg" group-title="Cruel Summer",1X6 Cruel Summe
+https://archive.org/download/sr-y-sra-smith/Cruel%20Summer%201x6.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2473/1_m3.jpg" group-title="Cruel Summer",1X7 Cruel Summe
+https://archive.org/download/sr-y-sra-smith/Cruel%20Summer%201x7.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2473/1_m3.jpg" group-title="Cruel Summer",1X8 Cruel Summe
+https://archive.org/download/sr-y-sra-smith/Cruel%20Summer%201x8.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2473/1_m3.jpg" group-title="Cruel Summer",1X9 Cruel Summe
+https://archive.org/download/sr-y-sra-smith/Cruel%20Summer%201x9.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Death%20Parade.jpg" group-title="Death Parade",1X1 Death Parade
+https://archive.org/download/sr-y-sra-smith/Death%20Parade%201x1.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/death-parade.png" group-title="Death Parade",1X2 Death Parade
+https://archive.org/download/sr-y-sra-smith/Death%20Parade%201x2.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/death-parade.png" group-title="Death Parade",1X3 Death Parade
+https://archive.org/download/sr-y-sra-smith/Death%20Parade%201x3.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/death-parade.png" group-title="Death Parade",1X4 Death Parade
+https://archive.org/download/sr-y-sra-smith/Death%20Parade%201x4.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/death-parade.png" group-title="Death Parade",1X5 Death Parade
+https://archive.org/download/sr-y-sra-smith/Death%20Parade%201x5.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/death-parade.png" group-title="Death Parade",1X6 Death Parade
+https://archive.org/download/sr-y-sra-smith/Death%20Parade%201x6.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/death-parade.png" group-title="Death Parade",1X7 Death Parade
+https://archive.org/download/sr-y-sra-smith/Death%20Parade%201x7.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/death-parade.png" group-title="Death Parade",1X8 Death Parade
+https://archive.org/download/sr-y-sra-smith/Death%20Parade%201x8.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/death-parade.png" group-title="Death Parade",1X9 Death Parade
+https://archive.org/download/sr-y-sra-smith/Death%20Parade%201x9.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Kaguya-sama%20Love%20Is%20War%201.jpg" group-title="Kaguya-sama Love Is War",2X4 Kaguya-sama Love Is War
+https://archive.org/download/sr-y-sra-smith/Kaguya-sama%20Love%20Is%20War%202x4.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Kaguya-sama%20Love%20Is%20War%201.jpg" group-title="Kaguya-sama Love Is War",2x9 aguya-sama Love Is War
+https://archive.org/download/sr-y-sra-smith/Kaguya-sama%20Love%20Is%20War%202x9.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict.jpg" group-title="La misteriosa Sociedad Benedict",1X1 La misteriosa Sociedad Benedict
+https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict%201x1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict.jpg" group-title="La misteriosa Sociedad Benedict",1X2 La misteriosa Sociedad Benedict
+https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict%201x2.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict.jpg" group-title="La misteriosa Sociedad Benedict",1X3 La misteriosa Sociedad Benedict
+https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict%201x3.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict.jpg" group-title="La misteriosa Sociedad Benedict",1X6 La misteriosa Sociedad Benedict
+https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict%201x6.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict.jpg" group-title="La misteriosa Sociedad Benedict",1X7 La misteriosa Sociedad Benedict
+https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict%201x7.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict.jpg" group-title="La misteriosa Sociedad Benedict",1X8 La misteriosa Sociedad Benedict
+https://archive.org/download/sr-y-sra-smith/La%20misteriosa%20Sociedad%20Benedict%201x8.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X1 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%201.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X2 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%202.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X3 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%203.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X4 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%204.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X5 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%205.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X6 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%206.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X7 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%207.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X8 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%208.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X9 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%209.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X10 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2010.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X11 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2011.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X12 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2012.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X13 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2013.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X14 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2014.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X15 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2015.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X16 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2016.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X17 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2017.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X18 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2018.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X19 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2019.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X20 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2020.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X21 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2021.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X22 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2022.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X23 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2023.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X24 Vinland Saga
+https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2024.mp4
