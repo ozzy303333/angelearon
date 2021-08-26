@@ -1019,103 +1019,103 @@ https://archive.org/download/como-me-converti-en-superheroe/Resident%20Evil%20In
 https://archive.org/download/como-me-converti-en-superheroe/Resident%20Evil%20Infinite%20Darkness%201x3.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Resident%20Evil%20La%20tiniebla%20infinita.jpg" group-title="Resident Evil La tiniebla infinita",Resident Evil Infinite Darkness 1x4
 https://archive.org/download/como-me-converti-en-superheroe/Resident%20Evil%20Infinite%20Darkness%201x4.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",El candidato 1x01 - Piloto
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",1x01 el candidato  - Piloto
 https://archive.org/download/como-me-converti-en-superheroe/1x01%20-%20Piloto.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",El candidato 1x2 Artículo 29
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",1x2 el candidato  Artículo 29
 https://archive.org/download/como-me-converti-en-superheroe/1x02%20-%20Art%C3%ADculo%2029.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",El candidato 1x3 1x03 - El foco
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",1x03  El candidato El foco
 https://archive.org/download/como-me-converti-en-superheroe/1x03%20-%20El%20foco.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",1x04 - Toques.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",1x04 - el candidato  Toques
 https://archive.org/download/como-me-converti-en-superheroe/1x04%20-%20Toques.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",el candidato 1x05 - Operativo
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",1x05 el candidato - Operativo
 https://archive.org/download/como-me-converti-en-superheroe/1x05%20-%20Operativo.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",el candidato 1x06 - Blackberries
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",1x06 el candidato - Blackberries
 https://archive.org/download/como-me-converti-en-superheroe/1x06%20-%20Blackberries.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",el candidato 1x07 - En la ciudad de la furia
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",1x07 el candidato  - En la ciudad de la furia
 https://archive.org/download/como-me-converti-en-superheroe/1x07%20-%20En%20la%20ciudad%20de%20la%20furia.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",el candidato 1x08 - Una palabra amistosa
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",1x08 el candidato  - Una palabra amistosa
 https://archive.org/download/como-me-converti-en-superheroe/1x08%20-%20Una%20palabra%20amistosa.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",el candidato 1x09 - La cabaña en el bosque
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",1x09 el candidato - La cabaña en el bosque
 https://archive.org/download/como-me-converti-en-superheroe/1x09%20-%20La%20caba%C3%B1a%20en%20el%20bosque.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",el candidato 1x10 - Desierto de los leones
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO",1x10 el candidato - Desierto de los leones
 https://archive.org/download/como-me-converti-en-superheroe/1x09%20-%20La%20caba%C3%B1a%20en%20el%20bosque.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",Los asesinatos del Valhala 1x01  Nunca antes visto
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",1x01 Nunca antes visto
 https://archive.org/download/como-me-converti-en-superheroe/1x01%20-%20Nunca%20antes%20visto.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",Los asesinatos del Valhala 1x02 - El regreso
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",1x02 - El regreso
 https://archive.org/download/como-me-converti-en-superheroe/1x02%20-%20El%20regreso.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",Los asesinatos del Valhala 1x03 - Valhala
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",1x03 - Valhala
 https://archive.org/download/como-me-converti-en-superheroe/1x03%20-%20Valhala.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",Los asesinatos del Valhala 1x04 - Cicatrices
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",1x04 - Cicatrices
 https://archive.org/download/como-me-converti-en-superheroe/1x04%20-%20Cicatrices.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",Los asesinatos del Valhala 1x05 - A simple vista
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",1x05 - A simple vista
 https://archive.org/download/como-me-converti-en-superheroe/1x05%20-%20A%20simple%20vista.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",Los asesinatos del Valhala 1x06 - El cuarto oculto
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",1x06 - El cuarto oculto
 https://archive.org/download/como-me-converti-en-superheroe/1x06%20-%20El%20cuarto%20oculto.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",Los asesinatos del Valhala 1x07 - La encrucijada
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",1x07 - La encrucijada
 https://archive.org/download/como-me-converti-en-superheroe/1x07%20-%20La%20encrucijada.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",Los asesinatos del Valhala 1x08 - El monstruo en la oscuridad
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20asesinatos%20del%20Valhala%201.jpg" group-title="Los asesinatos del Valhala",1x08 - El monstruo en la oscuridad
 https://archive.org/download/como-me-converti-en-superheroe/1x08%20-%20El%20monstruo%20en%20la%20oscuridad.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",el hombre en el castillo 1x01 - El Nuevo Mundo
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",1x01 - El Nuevo Mundo
 https://archive.org/download/como-me-converti-en-superheroe/1x01%20-%20El%20Nuevo%20Mundo.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",el hombre en el castillo 1x02 - Amanecer
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",1x02 - Amanecer
 https://archive.org/download/como-me-converti-en-superheroe/1x02%20-%20Amanecer.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",el hombre en el castillo 1x03 - La Ilustrada
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",1x03 - La Ilustrada
 https://archive.org/download/como-me-converti-en-superheroe/1x03%20-%20La%20Ilustrada.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",el hombre en el castillo 1x04 - Reveliciones
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",1x04 - Reveliciones
 https://archive.org/download/como-me-converti-en-superheroe/1x04%20-%20Reveliciones.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",el hombre en el castillo 1x05 - La Nueva Era
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",1x05 - La Nueva Era
 https://archive.org/download/como-me-converti-en-superheroe/1x05%20-%20La%20Nueva%20Era.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",el hombre en el castillo 1x06 - Tres Monos
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",1x06 - Tres Monos
 https://archive.org/download/como-me-converti-en-superheroe/1x06%20-%20Tres%20Monos.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",el hombre en el castillo 1x07 - Verdad
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",1x07 - Verdad
 https://archive.org/download/como-me-converti-en-superheroe/1x07%20-%20Verdad.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",el hombre en el castillo 1x08 - Din del Mundo
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",1x08 - Din del Mundo
 https://archive.org/download/como-me-converti-en-superheroe/1x08%20-%20Din%20del%20Mundo.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",el hombre en el castillo 1x09 - El Obsequio
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",1x09 - El Obsequio
 https://archive.org/download/como-me-converti-en-superheroe/1x09%20-%20El%20Obsequio.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",el hombre en el castillo 1x10 - Una Salida.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%201.jpg" group-title="El hombre en el castillo 1",1x10 - Una Salida.mp4
 https://archive.org/download/como-me-converti-en-superheroe/1x10%20-%20Una%20Salida.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",el hombre en el castillo 2 2x01 - La cueva del tigre
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",2x01 - La cueva del tigre
 https://archive.org/download/como-me-converti-en-superheroe/2x01%20-%20La%20cueva%20del%20tigre.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",el hombre en el castillo 2 2x02 - El camino menos recorrido
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",2x02 - El camino menos recorrido
 https://archive.org/download/como-me-converti-en-superheroe/2x02%20-%20El%20camino%20menos%20recorrido.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",el hombre en el castillo 2 2x03 - Viajeros
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",2x03 - Viajeros
 https://archive.org/download/como-me-converti-en-superheroe/2x03%20-%20Viajeros.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",el hombre en el castillo 2 2x04 - Escalada
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",2x04 - Escalada
 https://archive.org/download/como-me-converti-en-superheroe/2x04%20-%20Escalada.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",el hombre en el castillo 2 2x05 - Agáchate y cúbrete
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",2x05 - Agáchate y cúbrete
 https://archive.org/download/como-me-converti-en-superheroe/2x05%20-%20Ag%C3%A1chate%20y%20c%C3%BAbrete.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",el hombre en el castillo 2 2x06 - Kintsugi
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",2x06 - Kintsugi
 https://archive.org/download/como-me-converti-en-superheroe/2x06%20-%20Kintsugi.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",el hombre en el castillo 2 2x07 - Tierra de sonrisas
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",2x07 - Tierra de sonrisas
 https://archive.org/download/como-me-converti-en-superheroe/2x07%20-%20Tierra%20de%20sonrisas.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",el hombre en el castillo 2 2x08 - Insolencia
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",2x08 - Insolencia
 https://archive.org/download/como-me-converti-en-superheroe/2x08%20-%20Insolencia.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",el hombre en el castillo 2 2x09 - Detonación
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",2x09 - Detonación
 https://archive.org/download/como-me-converti-en-superheroe/2x09%20-%20Detonaci%C3%B3n.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",el hombre en el castillo 2 2x10 - Consecuencias
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%202.jpg" group-title="El hombre en el castillo 2",2x10 - Consecuencias
 https://archive.org/download/como-me-converti-en-superheroe/2x10%20-%20Consecuencias.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",nos preocupamos por ti
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",3x1 nos preocupamos por ti
 https://archive.org/download/como-me-converti-en-superheroe/3x01%20-%20Ahora%20m%C3%A1s%20que%20nunca%2C%20nos%20preocupamos%20por%20ti.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",el hombre en el castillo 3 3x02 - Imagine Manchuria
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",3x02 - Imagine Manchuria
 https://archive.org/download/como-me-converti-en-superheroe/3x02%20-%20Imagine%20Manchuria.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",el hombre en el castillo 3 3x03 - Sensô Kôi
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",3x03 - Senso Koi
 https://archive.org/download/como-me-converti-en-superheroe/3x03%20-%20Sens%C3%B4%20K%C3%B4i.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",el hombre en el castillo 3 3x04 - Sabra.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",3x04 - Sabra
 https://archive.org/download/como-me-converti-en-superheroe/3x04%20-%20Sabra.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",el hombre en el castillo 3 3x05 - El Nuevo Coloso
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",3x05 - El Nuevo Coloso
 https://archive.org/download/como-me-converti-en-superheroe/3x05%20-%20El%20Nuevo%20Coloso.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",el hombre en el castillo 3 3x06 - Termina la historia
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",3x06 - Termina la historia
 https://archive.org/download/como-me-converti-en-superheroe/3x06%20-%20Termina%20la%20historia.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",el hombre en el castillo 3 3x07 - Exceso de ánimus
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",3x07 - Exceso de animus
 https://archive.org/download/como-me-converti-en-superheroe/3x07%20-%20Exceso%20de%20%C3%A1nimus.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",el hombre en el castillo 3 3x08 - Kasumi Entre la Niebla
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",3x08 - Kasumi Entre la Niebla
 https://archive.org/download/como-me-converti-en-superheroe/3x08%20-%20Kasumi%20%28Entre%20la%20Niebla%29.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",el hombre en el castillo 3 3x09 - Baku
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",3x09 - Baku
 https://archive.org/download/como-me-converti-en-superheroe/3x09%20-%20Baku.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",el hombre en el castillo 3 3x10 - Jahr Null
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20en%20el%20castillo%203.jpg" group-title="El hombre en el castillo 3",3x10 - Jahr Null
 https://archive.org/download/como-me-converti-en-superheroe/3x10%20-%20Jahr%20Null.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Mortal.jpg" group-title="MORTAL 1",mortal 1 1x1
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Mortal.jpg" group-title="MORTAL 1",mortal 1x1
 https://archive.org/download/como-me-converti-en-superheroe/Mortal%201x1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Mortal.jpg" group-title="MORTAL 1",Mortal 1x2
 https://archive.org/download/como-me-converti-en-superheroe/Mortal%201x2.mp4
@@ -1341,19 +1341,19 @@ https://ia601503.us.archive.org/17/items/morituri_202108/4x7%20Esp%C3%ADas%20al%
 https://ia601503.us.archive.org/17/items/morituri_202108/4x8%20Esp%C3%ADas%20al%20volante~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x1Espías al volante 5 Pacífico Sur
 https://ia601503.us.archive.org/17/items/morituri_202108/5x1%20Esp%C3%ADas%20al%20volante~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x2Espías al volante 5 Pacífico Sur
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x2 Espías al volante 5 Pacífico Sur
 https://ia601503.us.archive.org/17/items/morituri_202108/5x2%20Esp%C3%ADas%20al%20volante~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x3Espías al volante 5 Pacífico Sur
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x3 Espías al volante 5 Pacífico Sur
 https://ia601503.us.archive.org/17/items/morituri_202108/5x3%20Esp%C3%ADas%20al%20volante~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x4Espías al volante 5 Pacífico Sur
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x4 Espías al volante 5 Pacífico Sur
 https://archive.org/download/morituri_202108/5x4%20Esp%C3%ADas%20al%20volante~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x5Espías al volante 5 Pacífico Sur
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x5 Espías al volante 5 Pacífico Sur
 https://ia601503.us.archive.org/17/items/morituri_202108/5x5%20Esp%C3%ADas%20al%20volante~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x6Espías al volante 5 Pacífico Sur
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x6 Espías al volante 5 Pacífico Sur
 https://ia601503.us.archive.org/17/items/morituri_202108/5x6%20Esp%C3%ADas%20al%20volante~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x7Espías al volante 5 Pacífico Sur
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x7 Espías al volante 5 Pacífico Sur
 https://ia601503.us.archive.org/17/items/morituri_202108/5x7%20Esp%C3%ADas%20al%20volante~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x8Espías al volante 5 Pacífico Sur
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x8 Espías al volante 5 Pacífico Sur
 https://ia601503.us.archive.org/17/items/morituri_202108/5x8%20Esp%C3%ADas%20al%20volante~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Amarres.jpg" group-title="Amarres",1x1 Amarres
 https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Amarres~1.mp4
@@ -1379,7 +1379,7 @@ https://ia601503.us.archive.org/17/items/morituri_202108/1x10%20Amarres~1.mp4
 https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Black%20Space~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x2 Black Space
 https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Black%20Space~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x3Black Space
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x3 Black Space
 https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Black%20Space~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x4 Black Space
 https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Black%20Space~1.mp4
@@ -1439,10 +1439,6 @@ https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Nuevo%20Sabor%20a
 https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Nuevo%20Sabor%20a%20Cereza~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x4 Nuevo Sabor a Cereza
 https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Nuevo%20Sabor%20a%20Cereza~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x4 Nuevo Sabor a Cereza
-https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Nuevo%20Sabor%20a%20Cereza~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x5 Nuevo Sabor a Cereza
-https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Nuevo%20Sabor%20a%20Cereza~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x5 Nuevo Sabor a Cereza
 https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Nuevo%20Sabor%20a%20Cereza~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x6 Nuevo sabor a cereza
@@ -1489,15 +1485,3 @@ https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Sexy%20Beasts~1.m
 https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Sexy%20Beasts~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Sexy%20Beasts.jpg" group-title="Sexy Beasts",1x6 Sexy Beasts
 https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20Sexy%20Beasts~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%201.11%20No%20Est%C3%A1s%20solo.jpg" group-title="Evangelion",1.11 Evangelion  No Estás solo
-https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%201.11%20No%20Est%C3%A1s%20solo~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%202.22%20No%20Puedes%20avanzar.jpg" group-title="Evangelion",2.22 Evangelion No Puedes avanzar
-https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%202.22%20No%20Puedes%20avanzar~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%203.0%2B1.01%20Triple.jpg" group-title="Evangelion",3.0 Evangelion Triple  1.01
-https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%203.0%2B1.01%20Triple~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%203.33%20Tu%20%20No%20lo%20puedes%20rehacer.jpg" group-title="Evangelion",3.33 Evangelion Tu No lo puedes rehacer
-https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%203.33%20Tu%20%20No%20lo%20puedes%20rehacer~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%2C%201.0%20You%20Are%20%28Not%29%20Alone.jpg" group-title="Evangelion",1.0 Evangelion  You Are (Not) Alone
-https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%2C%201.0%20You%20Are%20%28Not%29%20Alone~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%2C%203.0%20You%20Can%20%28Not%29%20Redo.jpg" group-title="Evangelion",3.0 Evangelion You Can (Not) Redo
-https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%2C%203.0%20You%20Can%20%28Not%29%20Redo~1.mp4
