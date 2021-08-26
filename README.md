@@ -1253,3 +1253,251 @@ https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2022.mp4
 https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2023.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Vinland%20Saga.jpg" group-title="VINLAND SAGA",1X24 Vinland Saga
 https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2024.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/What%20If.jpg" group-title="What If",1x1 Que Pasaria si T Challa se convirtiera en Star Lord
+https://archive.org/download/morituri_202108/1x1%20Qu%C3%A9%20Pasar%C3%ADa%20si..%20T%27Challa%20se%20convirtiera%20en%20Star-Lord~1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/What%20If.jpg" group-title="What If",1x2 Que Pasaria si T Challa se convirtiera en Star Lord
+https://archive.org/download/morituri_202108/1x2%20Qu%C3%A9%20Pasar%C3%ADa%20si..%20T%27Challa%20se%20convirtiera%20en%20Star-Lord~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x1 Animaniacs
+https://archive.org/download/morituri_202108/1x1%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x2 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x3 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x4 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x5 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x6 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x7 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x7%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x8 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x8%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x9 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x9%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x10 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x10%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x11 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x11%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x12 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x12%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x13 Animaniacs
+https://ia601503.us.archive.org/17/items/morituri_202108/1x13%20Animaniacs~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Esp%C3%ADas%20al%20volante.jpg" group-title="Espías al volante",1x1 Espías al volante
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Esp%C3%ADas%20al%20volante.jpg" group-title="Espías al volante",1x2 Espías al volante
+https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Esp%C3%ADas%20al%20volante.jpg" group-title="Espías al volante",1x3 Espías al volante
+https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Esp%C3%ADas%20al%20volante.jpg" group-title="Espías al volante",1x4 Espías al volante
+https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Esp%C3%ADas%20al%20volante.jpg" group-title="Espías al volante",1x5 Espías al volante
+https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Esp%C3%ADas%20al%20volante.jpg" group-title="Espías al volante",1x6 Espías al volante
+https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Esp%C3%ADas%20al%20volante.jpg" group-title="Espías al volante",1x6 Espías al volante
+https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Esp%C3%ADas%20al%20volante.jpg" group-title="Espías al volante",1x7 Espías al volante
+https://ia601503.us.archive.org/17/items/morituri_202108/1x7%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Esp%C3%ADas%20al%20volante.jpg" group-title="Espías al volante",1x8 Espías al volante
+https://ia601503.us.archive.org/17/items/morituri_202108/1x8%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/2%20Esp%C3%ADas%20al%20volante%20rio.jpg" group-title="Espías al volante",2x1 Espías al volante rio
+https://ia601503.us.archive.org/17/items/morituri_202108/2x1%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/2%20Esp%C3%ADas%20al%20volante%20rio.jpg" group-title="Espías al volante",2x2 Espías al volante rio
+https://ia601503.us.archive.org/17/items/morituri_202108/2x2%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/2%20Esp%C3%ADas%20al%20volante%20rio.jpg" group-title="Espías al volante",2x3 Espías al volante rio
+https://ia601503.us.archive.org/17/items/morituri_202108/2x3%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/2%20Esp%C3%ADas%20al%20volante%20rio.jpg" group-title="Espías al volante",2x4 Espías al volante rio
+https://ia601503.us.archive.org/17/items/morituri_202108/2x4%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/2%20Esp%C3%ADas%20al%20volante%20rio.jpg" group-title="Espías al volante",2x7 Espías al volante rio
+https://ia601503.us.archive.org/17/items/morituri_202108/2x7%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/2%20Esp%C3%ADas%20al%20volante%20rio.jpg" group-title="Espías al volante",2x8 Espías al volante rio
+https://ia601503.us.archive.org/17/items/morituri_202108/2x8%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/3%20Esp%C3%ADas%20al%20volante%20sahara.jpg" group-title="Espías al volante",3x2 Espías al volante sahara
+https://ia601503.us.archive.org/17/items/morituri_202108/3x2%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/3%20Esp%C3%ADas%20al%20volante%20sahara.jpg" group-title="Espías al volante",3x4 Espías al volante sahara
+https://ia601503.us.archive.org/17/items/morituri_202108/3x4%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/3%20Esp%C3%ADas%20al%20volante%20sahara.jpg" group-title="Espías al volante",3x6 Espías al volante sahara
+https://ia601503.us.archive.org/17/items/morituri_202108/3x6%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/3%20Esp%C3%ADas%20al%20volante%20sahara.jpg" group-title="Espías al volante",3x7 Espías al volante sahara
+https://ia601503.us.archive.org/17/items/morituri_202108/3x7%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/3%20Esp%C3%ADas%20al%20volante%20sahara.jpg" group-title="Espías al volante",3x8 Espías al volante sahara
+https://ia601503.us.archive.org/17/items/morituri_202108/3x8%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Esp%C3%ADas%20al%20volante%20mexico.jpg" group-title="Espías al volante",4x1 Espías al volante mexico
+https://ia601503.us.archive.org/17/items/morituri_202108/4x1%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Esp%C3%ADas%20al%20volante%20mexico.jpg" group-title="Espías al volante",4x2 Espías al volante mexico
+https://ia601503.us.archive.org/17/items/morituri_202108/4x2%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Esp%C3%ADas%20al%20volante%20mexico.jpg" group-title="Espías al volante",4x3 Espías al volante
+https://ia601503.us.archive.org/17/items/morituri_202108/4x3%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Esp%C3%ADas%20al%20volante%20mexico.jpg" group-title="Espías al volante",4x4 Espías al volante mexico
+https://ia601503.us.archive.org/17/items/morituri_202108/4x4%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Esp%C3%ADas%20al%20volante%20mexico.jpg" group-title="Espías al volante",4x5 Espías al volante mexico
+https://ia601503.us.archive.org/17/items/morituri_202108/4x5%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Esp%C3%ADas%20al%20volante%20mexico.jpg" group-title="Espías al volante",4x6 Espías al volante mexico
+https://ia601503.us.archive.org/17/items/morituri_202108/4x6%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Esp%C3%ADas%20al%20volante%20mexico.jpg" group-title="Espías al volante",4x7 Espías al volante mexico
+https://ia601503.us.archive.org/17/items/morituri_202108/4x7%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Esp%C3%ADas%20al%20volante%20mexico.jpg" group-title="Espías al volante",4x8 Espías al volante mexico
+https://ia601503.us.archive.org/17/items/morituri_202108/4x8%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x1Espías al volante 5 Pacífico Sur
+https://ia601503.us.archive.org/17/items/morituri_202108/5x1%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x2Espías al volante 5 Pacífico Sur
+https://ia601503.us.archive.org/17/items/morituri_202108/5x2%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x3Espías al volante 5 Pacífico Sur
+https://ia601503.us.archive.org/17/items/morituri_202108/5x3%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x4Espías al volante 5 Pacífico Sur
+https://archive.org/download/morituri_202108/5x4%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x5Espías al volante 5 Pacífico Sur
+https://ia601503.us.archive.org/17/items/morituri_202108/5x5%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x6Espías al volante 5 Pacífico Sur
+https://ia601503.us.archive.org/17/items/morituri_202108/5x6%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x7Espías al volante 5 Pacífico Sur
+https://ia601503.us.archive.org/17/items/morituri_202108/5x7%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/R%C3%A1pidos%20y%20Furiosos%20Esp%C3%ADas%20al%20volante%205%20Pac%C3%ADfico%20Sur%202021.jpg" group-title="Espías al volante",5x8Espías al volante 5 Pacífico Sur
+https://ia601503.us.archive.org/17/items/morituri_202108/5x8%20Esp%C3%ADas%20al%20volante~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Amarres.jpg" group-title="Amarres",1x1 Amarres
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Amarres~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Amarres.jpg" group-title="Amarres",1x2 Amarres
+https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Amarres~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Amarres.jpg" group-title="Amarres",1x3 Amarres
+https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Amarres~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Amarres.jpg" group-title="Amarres",1x4 Amarres
+https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Amarres~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Amarres.jpg" group-title="Amarres",1x5 Amarres
+https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Amarres~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Amarres.jpg" group-title="Amarres",1x6 Amarres
+https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20Amarres~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Amarres.jpg" group-title="Amarres",1x7 Amarres
+https://ia601503.us.archive.org/17/items/morituri_202108/1x7%20Amarres~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Amarres.jpg" group-title="Amarres",1x8 Amarres
+https://ia601503.us.archive.org/17/items/morituri_202108/1x8%20Amarres~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Amarres.jpg" group-title="Amarres",1x9 Amarres
+https://ia601503.us.archive.org/17/items/morituri_202108/1x9%20Amarres~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Amarres.jpg" group-title="Amarres",1x10 Amarres
+https://ia601503.us.archive.org/17/items/morituri_202108/1x10%20Amarres~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x1Black Space
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Black%20Space~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x2 Black Space
+https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Black%20Space~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x3Black Space
+https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Black%20Space~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x4 Black Space
+https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Black%20Space~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x5 Black Space
+https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Black%20Space~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x6 Black Space
+https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20Black%20Space~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x7 Black Space
+https://ia601503.us.archive.org/17/items/morituri_202108/1x7%20Black%20Space~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Black%20Space.jpg" group-title="Black Space",1x8 Black Space
+https://ia601503.us.archive.org/17/items/morituri_202108/1x8%20Black%20Space~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Heels.jpg" group-title="Heels",1x1 Heels
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Heels~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/La%20historia%20de%20Lisey.jpg" group-title="La historia de Lisey",1x1 La historia de Lisey
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20La%20historia%20de%20Lisey~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/La%20historia%20de%20Lisey.jpg" group-title="La historia de Lisey",1x2 La historia de Lisey
+https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20La%20historia%20de%20Lisey~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/La%20historia%20de%20Lisey.jpg" group-title="La historia de Lisey",1x3 La historia de Lisey
+https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20La%20historia%20de%20Lisey~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/La%20historia%20de%20Lisey.jpg" group-title="La historia de Lisey",1x4 La historia de Lisey
+https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20La%20historia%20de%20Lisey~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/La%20historia%20de%20Lisey.jpg" group-title="La historia de Lisey",1x5 La historia de Lisey
+https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20La%20historia%20de%20Lisey~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/La%20historia%20de%20Lisey.jpg" group-title="La historia de Lisey",1x6 La historia de Lisey
+https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20La%20historia%20de%20Lisey~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/La%20historia%20de%20Lisey.jpg" group-title="La historia de Lisey",1x7 La historia de Lisey
+https://ia601503.us.archive.org/17/items/morituri_202108/1x7%20La%20historia%20de%20Lisey~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/La%20historia%20de%20Lisey.jpg" group-title="La historia de Lisey",1x8 La historia de Lisey
+https://ia601503.us.archive.org/17/items/morituri_202108/1x8%20La%20historia%20de%20Lisey~1.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/03/22/06/38/1677314.jpg" group-title="Made for Love",1x1 Made for Love
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Made%20for%20Love~1.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/03/22/06/38/1677314.jpg" group-title="Made for Love",1x2 Made for Love
+https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Made%20for%20Love~1.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/03/22/06/38/1677314.jpg" group-title="Made for Love",1x3 Made for Love
+https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Made%20for%20Love~1.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/03/22/06/38/1677314.jpg" group-title="Made for Love",1x4 Made for Love
+https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Made%20for%20Love~1.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/03/22/06/38/1677314.jpg" group-title="Made for Love",1x5 Made for Love
+https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Made%20for%20Love~1.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/03/22/06/38/1677314.jpg" group-title="Made for Love",1x6 Made for Love
+https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20Made%20for%20Love~1.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/03/22/06/38/1677314.jpg" group-title="Made for Love",1x7 Made for Love
+https://ia601503.us.archive.org/17/items/morituri_202108/1x7%20Made%20for%20Love~1.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/03/22/06/38/1677314.jpg" group-title="Made for Love",1x8 Made for Love
+https://ia601503.us.archive.org/17/items/morituri_202108/1x8%20Made%20for%20Love~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Mr.%20Corman.jpg" group-title="Mr Corman",1x1 Mr Corman
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Mr%20Corman~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Mr.%20Corman.jpg" group-title="Mr Corman",1x2 Mr Corman
+https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Mr%20Corman~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Mr.%20Corman.jpg" group-title="Mr Corman",1x3 Mr Corman
+https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Mr%20Corman~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x1 Nuevo Sabor a Cereza
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Nuevo%20Sabor%20a%20Cereza~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x2 Nuevo Sabor a Cereza
+https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Nuevo%20Sabor%20a%20Cereza~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x3 Nuevo Sabor a Cereza
+https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Nuevo%20Sabor%20a%20Cereza~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x4 Nuevo Sabor a Cereza
+https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Nuevo%20Sabor%20a%20Cereza~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x4 Nuevo Sabor a Cereza
+https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Nuevo%20Sabor%20a%20Cereza~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x5 Nuevo Sabor a Cereza
+https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Nuevo%20Sabor%20a%20Cereza~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x5 Nuevo Sabor a Cereza
+https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Nuevo%20Sabor%20a%20Cereza~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x6 Nuevo sabor a cereza
+https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20Nuevo%20Sabor%20a%20Cereza~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x7 Nuevo sabor a cereza
+https://ia601503.us.archive.org/17/items/morituri_202108/1x7%20Nuevo%20Sabor%20a%20Cereza~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Nuevo%20sabor%20a%20cereza.jpg" group-title="Nuevo Sabor a Cereza",1x8 Nuevo sabor a cereza
+https://ia601503.us.archive.org/17/items/morituri_202108/1x8%20Nuevo%20Sabor%20a%20Cereza~1.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2072/2_m3.jpg" group-title="Qué Pasaría si.. T'Challa se convirtiera en Star-Lord",1x1  Qué Pasaría si.. T'Challa se convirtiera en Star-Lord
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Qu%C3%A9%20Pasar%C3%ADa%20si..%20T%27Challa%20se%20convirtiera%20en%20Star-Lord~1.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2072/2_m3.jpg" group-title="Qué Pasaría si.. T'Challa se convirtiera en Star-Lord",1x2 Qué Pasaría si.. T'Challa se convirtiera en Star-Lord
+https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Qu%C3%A9%20Pasar%C3%ADa%20si..%20T%27Challa%20se%20convirtiera%20en%20Star-Lord~1.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/power-book-iii-raising-kanan-2-1627225682.jpg" group-title="Raising Kanan",1x1 Raising Kanan
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Raising%20Kanan~1.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/power-book-iii-raising-kanan-2-1627225682.jpg" group-title="Raising Kanan",1x2 Raising Kanan
+https://img.repelis.id/cover/power-book-iii-raising-kanan-2-1627225682.jpg
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/power-book-iii-raising-kanan-2-1627225682.jpg" group-title="Raising Kanan",1x3 Raising Kanan
+https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Raising%20Kanan~1.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/power-book-iii-raising-kanan-2-1627225682.jpg" group-title="Raising Kanan",1x4 Raising Kanan
+https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Raising%20Kanan~1.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/power-book-iii-raising-kanan-2-1627225682.jpg" group-title="Raising Kanan",1x5 Raising Kanan
+https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Raising%20Kanan~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Schmigadoon.jpg" group-title="Schmigadoon",1x1 Schmigadoon
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Schmigadoon~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Schmigadoon.jpg" group-title="Schmigadoon",1x2 Schmigadoon
+https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Schmigadoon~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Schmigadoon.jpg" group-title="Schmigadoon",1x3 Schmigadoon
+https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Schmigadoon~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Schmigadoon.jpg" group-title="Schmigadoon",1x4 Schmigadoon
+https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Schmigadoon~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Schmigadoon.jpg" group-title="Schmigadoon",1x5 Schmigadoon
+https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Schmigadoon~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Schmigadoon.jpg" group-title="Schmigadoon",1x6 Schmigadoon
+https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20Schmigadoon~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Sexy%20Beasts.jpg" group-title="Sexy Beasts",1x1 Sexy Beasts
+https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Sexy%20Beasts~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Sexy%20Beasts.jpg" group-title="Sexy Beasts",1x2 Sexy Beasts
+https://ia601503.us.archive.org/17/items/morituri_202108/1x2%20Sexy%20Beasts~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Sexy%20Beasts.jpg" group-title="Sexy Beasts",1x3 Sexy Beasts
+https://ia601503.us.archive.org/17/items/morituri_202108/1x3%20Sexy%20Beasts~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Sexy%20Beasts.jpg" group-title="Sexy Beasts",1x4 Sexy Beasts
+https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Sexy%20Beasts~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Sexy%20Beasts.jpg" group-title="Sexy Beasts",1x5 Sexy Beasts
+https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Sexy%20Beasts~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Sexy%20Beasts.jpg" group-title="Sexy Beasts",1x6 Sexy Beasts
+https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20Sexy%20Beasts~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%201.11%20No%20Est%C3%A1s%20solo.jpg" group-title="Evangelion",1.11 Evangelion  No Estás solo
+https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%201.11%20No%20Est%C3%A1s%20solo~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%202.22%20No%20Puedes%20avanzar.jpg" group-title="Evangelion",2.22 Evangelion No Puedes avanzar
+https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%202.22%20No%20Puedes%20avanzar~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%203.0%2B1.01%20Triple.jpg" group-title="Evangelion",3.0 Evangelion Triple  1.01
+https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%203.0%2B1.01%20Triple~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%203.33%20Tu%20%20No%20lo%20puedes%20rehacer.jpg" group-title="Evangelion",3.33 Evangelion Tu No lo puedes rehacer
+https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%203.33%20Tu%20%20No%20lo%20puedes%20rehacer~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%2C%201.0%20You%20Are%20%28Not%29%20Alone.jpg" group-title="Evangelion",1.0 Evangelion  You Are (Not) Alone
+https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%2C%201.0%20You%20Are%20%28Not%29%20Alone~1.mp4
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%2C%203.0%20You%20Can%20%28Not%29%20Redo.jpg" group-title="Evangelion",3.0 Evangelion You Can (Not) Redo
+https://ia601503.us.archive.org/17/items/morituri_202108/Evangelion%2C%203.0%20You%20Can%20%28Not%29%20Redo~1.mp4
