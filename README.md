@@ -959,17 +959,17 @@ http://bit.ly/2pXgiNL
 http://bit.ly/2NG0t7g
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zxO5TbCNisw/maxresdefault.jpg" group-title="FUTURAMA",Cuento de Navidad
 http://bit.ly/2IQjV0g
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters at Work 1.1
-https://archive.org/download/como-me-converti-en-superheroe/1x1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters at Work 1.2
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="ANIMACION Monsters at Work",Monsters at Work 1X9
+https://archive.org/download/por-encima-de-la-ley-1/1x9%20monster%20a%20%20work.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="ANIMACION Monsters at Work",Monsters at Work 1.2
 https://archive.org/download/como-me-converti-en-superheroe/1x2.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters.at.Work 1x3
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="ANIMACION Monsters at Work",Monsters.at.Work 1x3
 https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x3.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters.at.Work 1x4
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="ANIMACION Monsters at Work",Monsters.at.Work 1x4
 https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x4.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters.at.Work 1x5
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="ANIMACION Monsters at Work",Monsters.at.Work 1x5
 https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x5.m4v
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="Monsters at Work",Monsters.at.Work 1x6
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="ANIMACION Monsters at Work",Monsters.at.Work 1x6
 https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x6.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Star%20Wars%20The%20Bad%20Batch.jpg" group-title="Star Wars The Bad Batch",Star Wars The Bad Batch 1x1
 https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x1.mp4
@@ -1257,6 +1257,8 @@ https://archive.org/download/sr-y-sra-smith/Vinland%20Saga%20EPISODIO%2024.mp4
 https://archive.org/download/morituri_202108/1x1%20Qu%C3%A9%20Pasar%C3%ADa%20si..%20T%27Challa%20se%20convirtiera%20en%20Star-Lord~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/What%20If.jpg" group-title="What If",1x2 Que Pasaria si T Challa se convirtiera en Star Lord
 https://archive.org/download/morituri_202108/1x2%20Qu%C3%A9%20Pasar%C3%ADa%20si..%20T%27Challa%20se%20convirtiera%20en%20Star-Lord~1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/What%20If.jpg" group-title="What If",What If 1x3
+https://archive.org/download/por-encima-de-la-ley-1/What%20If%201x3~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x1 Animaniacs
 https://archive.org/download/morituri_202108/1x1%20Animaniacs~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1%20Animaniacs.jpg" group-title="Animaniacs 2021",1x2 Animaniacs
@@ -1485,3 +1487,69 @@ https://ia601503.us.archive.org/17/items/morituri_202108/1x4%20Sexy%20Beasts~1.m
 https://ia601503.us.archive.org/17/items/morituri_202108/1x5%20Sexy%20Beasts~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/1x1%20Sexy%20Beasts.jpg" group-title="Sexy Beasts",1x6 Sexy Beasts
 https://ia601503.us.archive.org/17/items/morituri_202108/1x6%20Sexy%20Beasts~1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/1X1%20Despi%C3%A9rtate.jpg" group-title="Despiértate",1X1 Despiértate
+https://archive.org/download/por-encima-de-la-ley-1/1X1%20Despi%C3%A9rtate~1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/1X1%20Despi%C3%A9rtate.jpg" group-title="Despiértate",1X2 Despiértate
+https://archive.org/download/por-encima-de-la-ley-1/1X2%20Despi%C3%A9rtate~1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/1X1%20Despi%C3%A9rtate.jpg" group-title="Despiértate",1X3 Despiértate
+https://archive.org/download/por-encima-de-la-ley-1/1X3%20Despi%C3%A9rtate~1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/1X1%20Despi%C3%A9rtate.jpg" group-title="Despiértate",1X4 Despiértate
+https://archive.org/download/por-encima-de-la-ley-1/1X4%20Despi%C3%A9rtate~1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/1X1%20Despi%C3%A9rtate.jpg" group-title="Despiértate",1X5 Despiértate
+https://archive.org/download/por-encima-de-la-ley-1/1X5%20Despi%C3%A9rtate~1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/1X1%20Despi%C3%A9rtate.jpg" group-title="Despiértate",1X6 Despiértate
+https://archive.org/download/por-encima-de-la-ley-1/1X6%20Despi%C3%A9rtate~1.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/extracurricular_tv_series-603915848-mmed.jpg" group-title="DRAMA Extracurricular",1X1 Extracurricular
+https://archive.org/download/por-encima-de-la-ley-1/1X1%20Extracurricular~1.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/extracurricular_tv_series-603915848-mmed.jpg" group-title="DRAMA Extracurricular",1X2 Extracurricular
+https://archive.org/download/por-encima-de-la-ley-1/1X2%20Extracurricular~1.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/extracurricular_tv_series-603915848-mmed.jpg" group-title="DRAMA Extracurricular",1X3 Extracurricular
+https://archive.org/download/por-encima-de-la-ley-1/1X3%20Extracurricular~1.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/extracurricular_tv_series-603915848-mmed.jpg" group-title="DRAMA Extracurricular",1X4 Extracurricular
+https://archive.org/download/por-encima-de-la-ley-1/1X4%20Extracurricular~1.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/extracurricular_tv_series-603915848-mmed.jpg" group-title="DRAMA Extracurricular",1X5 Extracurricular
+https://archive.org/download/por-encima-de-la-ley-1/1X5%20Extracurricular~1.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/extracurricular_tv_series-603915848-mmed.jpg" group-title="DRAMA Extracurricular",1X6 Extracurricular
+https://archive.org/download/por-encima-de-la-ley-1/1X6%20Extracurricular~1.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/extracurricular_tv_series-603915848-mmed.jpg" group-title="DRAMA Extracurricular",1X7 Extracurricular
+https://archive.org/download/por-encima-de-la-ley-1/1X7%20Extracurricular~1.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/extracurricular_tv_series-603915848-mmed.jpg" group-title="DRAMA Extracurricular",1X8 Extracurricular
+https://archive.org/download/por-encima-de-la-ley-1/1X8%20Extracurricular~1.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/extracurricular_tv_series-603915848-mmed.jpg" group-title="DRAMA Extracurricular",1X9 Extracurricular
+https://archive.org/download/por-encima-de-la-ley-1/1X9%20Extracurricular~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x1 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x1%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x2 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x2%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x3 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x3%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x4 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x4%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x5 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x5%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x6 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x6%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x7 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x7%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x8 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x8%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x9 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x9%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x10 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x10%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x11 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x11%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x12 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x12%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x13 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x13%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x14 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x14%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x15 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x15%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/12/08/55/3574111.jpg" group-title="COMEDIA Dual Generation",1x16 Dual Generation
+https://archive.org/download/por-encima-de-la-ley-1/1x16%20Dual%20Generation~1.mp4
+#EXTINF:-1 tvg-logo="https://s1.eestatic.com/2021/08/25/actualidad/606950641_201301428_960x1706.jpg" group-title="Clickbait",Clickbait 1x1
+https://archive.org/download/por-encima-de-la-ley-1/Clickbait%201x1%20Dual%20%40Girohens~1.mp4
+#EXTINF:-1 tvg-logo="https://s1.eestatic.com/2021/08/25/actualidad/606950641_201301428_960x1706.jpg" group-title="Clickbait",Clickbait 1x2
+https://archive.org/download/por-encima-de-la-ley-1/Clickbait%201x2%20Dual%20%40Girohens~1.mp4
